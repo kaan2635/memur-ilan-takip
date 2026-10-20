@@ -1,0 +1,53 @@
+name: Günlük ilan taraması
+
+on:
+  schedule:
+    - cron: "30 4 * * *"      # her gün 07:30 (Türkiye saati)
+    - cron: "30 13 * * *"     # her gün 16:30 (Türkiye saati) — akşam çıkan ilanlar için
+  workflow_dispatch:           # elle çalıştırmak için
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: tarama
+  cancel-in-progress: false
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - name: Tara
+        id: tara
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m src.main
+      - name: Değişiklikleri kaydet
+        run: |
+          git config user.name "ilan-takip-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data ACIK_ILANLAR.md
+          git diff --cached --quiet || git commit -m "Günlük tarama $(date -u +%F)"
+          git pull --rebase -q || true
+          git push
+      - name: Bildirim (GitHub Issue → e-posta + GitHub mobil uygulaması)
+        if: steps.tara.outputs.bildirim == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "📬 $(TZ=Europe/Istanbul date +%d.%m.%Y): ${{ steps.tara.outputs.yeni }} yeni, ${{ steps.tara.outputs.yaklasan }} son gün yaklaşan ilan" \
+            --body-file bildirim.md \
+            --assignee "${{ github.repository_owner }}" || \
+          gh issue create --repo "$GITHUB_REPOSITORY" --title "📬 Yeni ilanlar" --body-file bildirim.md
