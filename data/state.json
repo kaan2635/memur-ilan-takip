@@ -31,6 +31,14 @@
   "son_basvuru": null,
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/657-sayili-kanun": {
+  "baslik": "657 Sayılı Kanun İş İlanları 2026",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": null,
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/abdullah-gul-universitesi-6-ogretim-elemani-alimi": {
   "baslik": "Abdullah Gül Üniversitesi 6 Öğretim Elemanı Alımı",
   "bildirilen": true,
@@ -71,6 +79,22 @@
   "son_basvuru": "2026-11-01",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/adiyaman-universitesi-1-arastirma-gorevlisi-alim-ilani": {
+  "baslik": "Adıyaman Üniversitesi 1 Araştırma Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-11",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/adiyaman-universitesi-11-ogretim-uyesi-alim-ilani": {
+  "baslik": "Adıyaman Üniversitesi 11 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-11",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/adiyaman-universitesi-9-ogretim-uyesi-alimi": {
   "baslik": "Adıyaman Üniversitesi 9 Öğretim Üyesi Alımı",
   "bildirilen": false,
@@ -79,12 +103,28 @@
   "son_basvuru": "2026-10-16",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/adli-tip-kurumu-baskanligi-23-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Adli Tıp Kurumu Başkanlığı 23 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-13",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/afyon-kocatepe-uni-24-sozlesmeli-personel-alim-ilani": {
   "baslik": "Afyon Kocatepe Üni. 24 Sözleşmeli Personel Alım İlanı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-09-30",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/afyon-kocatepe-universitesi-3-isci-alim-ilani": {
+  "baslik": "Afyon Kocatepe Üniversitesi 3 İşçi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-08-31",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/afyon-kocatepe-universitesi-44-ogretim-uyesi-alim-ilani": {
@@ -127,6 +167,14 @@
   "son_basvuru": "2026-11-04",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/akdeniz-universitesi-261-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Akdeniz Üniversitesi 261 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-15",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/akdeniz-universitesi-29-ogretim-elemani-alimi": {
   "baslik": "Akdeniz Üniversitesi 29 Öğretim Elemanı Alımı",
   "bildirilen": false,
@@ -141,6 +189,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-20",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/aksaray-universitesi-26-ogretim-uyesi-alim-ilani": {
+  "baslik": "Aksaray Üniversitesi 26 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-18",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/aksaray-universitesi-9-ogretim-elemani-alimi": {
@@ -165,6 +221,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-13",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/amasya-universitesi-13-ogretim-uyesi-alim-ilani": {
+  "baslik": "Amasya Üniversitesi 13 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-28",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/anadolu-universitesi-2-ogretim-gorevlisi-alim-ilani": {
@@ -223,6 +287,14 @@
   "son_basvuru": "2026-10-13",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/ankara-universitesi-8-bilisim-personeli-alim-ilani": {
+  "baslik": "Ankara Üniversitesi 8 Bilişim Personeli Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-07",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/aralik-belediye-baskanligi-3-itfaiye-eri-alimi": {
   "baslik": "Aralık Belediye Başkanlığı 3 İtfaiye Eri Alımı",
   "bildirilen": false,
@@ -231,12 +303,28 @@
   "son_basvuru": "2026-10-21",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/ardahan-universitesi-7-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Ardahan Üniversitesi 7 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-18",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/artvin-coruh-universitesi-25-ogretim-uyesi-alimi": {
   "baslik": "Artvin Çoruh Üniversitesi 25 Öğretim Üyesi Alımı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-20",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/artvin-coruh-universitesi-8-ogretim-elemani-alim-ilani": {
+  "baslik": "Artvin Çoruh Üniversitesi 8 Öğretim Elemanı Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-22",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/atalan-belediye-baskanligi-1-tekniker-alimi": {
@@ -287,6 +375,30 @@
   "son_basvuru": "2026-10-16",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/azatli-belediye-1-muhasebeci-alim-ilani": {
+  "baslik": "Azatlı Belediye 1 Muhasebeci Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-28",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/bahce-belediye-baskanligi-1-memur-alim-ilani": {
+  "baslik": "Bahçe Belediye Başkanlığı 1 Memur Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-06",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/bahsili-belediyesi-1-teknisyen-memur-alim-ilani": {
+  "baslik": "Bahşılı Belediyesi 1 Teknisyen Memur Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-02",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/balikesir-universitesi-1-doktor-ogretim-uyesi-alimi": {
   "baslik": "Balıkesir Üniversitesi 1 Doktor Öğretim Üyesi Alımı",
   "bildirilen": false,
@@ -311,6 +423,14 @@
   "son_basvuru": "2026-10-12",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/bandirma-onyedi-eylul-uni-15-ogretim-uyesi-alim-ilani": {
+  "baslik": "Bandırma Onyedi Eylül Üni. 15 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-16",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/bandirma-onyedi-eylul-uni-18-ogretim-uyesi-alimi": {
   "baslik": "Bandırma Onyedi Eylül Üni. 18 Öğretim Üyesi Alımı",
   "bildirilen": false,
@@ -325,6 +445,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-23",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/bartin-universitesi-12-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Bartın Üniversitesi 12 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-19",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/bartin-universitesi-24-ogretim-uyesi-alimi": {
@@ -359,6 +487,14 @@
   "son_basvuru": "2026-10-19",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/bayrampasa-belediye-baskanligi-10-muhendis-alim-ilani": {
+  "baslik": "Bayrampaşa Belediye Başkanlığı 10 Mühendis Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/bddk-15-sozlesmeli-bilisim-personeli-alimi": {
   "baslik": "BDDK 15 Sözleşmeli Bilişim Personeli Alımı",
   "bildirilen": true,
@@ -373,6 +509,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-19",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/begendik-belediye-baskanligi-1-zabita-memuru-alim-ilani": {
+  "baslik": "Beğendik Belediye Başkanlığı 1 Zabıta Memuru Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-02",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/bilecik-seyh-edebali-uni-11-ogretim-uyesi-alim-ilani": {
@@ -431,6 +575,14 @@
   "son_basvuru": "2026-10-09",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/bogazici-universitesi-4-ogretim-elemani-alim-ilani": {
+  "baslik": "Boğaziçi Üniversitesi 4 Öğretim Elemanı Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-12",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/bogazici-universitesi-5-ogretim-uyesi-memur-alim-ilani": {
   "baslik": "Boğaziçi Üniversitesi 5 Öğretim Üyesi Memur Alım İlanı",
   "bildirilen": false,
@@ -447,6 +599,30 @@
   "son_basvuru": "2026-09-29",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/bolvadin-belediyesi-2-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Bolvadin Belediyesi 2 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/burdur-mehmet-akif-ersoy-uni-22-ogretim-uyesi-alim-ilani": {
+  "baslik": "Burdur Mehmet Akif Ersoy Üni. 22 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-11",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/burdur-mehmet-akif-ersoy-uni-44-alim-ilani": {
+  "baslik": "Burdur Mehmet Akif Ersoy Üni. 44 Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-23",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/burdur-mehmet-akif-ersoy-universitesi-17-memur-alim-ilani": {
   "baslik": "Burdur Mehmet Akif Ersoy Üniversitesi 17 Memur Alım İlanı",
   "bildirilen": true,
@@ -454,6 +630,30 @@
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-17",
   "sonuc": "DIKKAT"
+ },
+ "https://www.memurjet.com/is-ilanlari/bursa-teknik-universitesi-12-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Bursa Teknik Üniversitesi 12 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-18",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/bursa-teknik-universitesi-17-ogretim-uyesi-alim-ilani": {
+  "baslik": "Bursa Teknik Üniversitesi 17 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-17",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/bursa-teknik-universitesi-6-arastirma-gorevlisi-alim-ilani": {
+  "baslik": "Bursa Teknik Üniversitesi 6 Araştırma Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-17",
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/bursa-uludag-universitesi-37-ogretim-uyesi-alimi": {
   "baslik": "Bursa Uludağ Üniversitesi 37 Öğretim Üyesi Alımı",
@@ -478,6 +678,14 @@
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": null,
   "sonuc": "DIKKAT"
+ },
+ "https://www.memurjet.com/is-ilanlari/canakkale-onsekiz-mart-uni-153-alim-ilani": {
+  "baslik": "Çanakkale Onsekiz Mart Üni. 153 Kamu Personeli Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-14",
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/canakkale-onsekiz-mart-uni-28-ogretim-uyesi-alimi": {
   "baslik": "Çanakkale Onsekiz Mart Üni. 28 Öğretim Üyesi Alımı",
@@ -509,6 +717,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-06",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/cevre-sehircilik-ve-iklim-degisikligi-bak-13-alim-ilani": {
+  "baslik": "Çevre, Şehircilik ve İklim Değişikliği Bak. 13 Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-15",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/cukurkuyu-belediye-baskanligi-1-zabita-memuru-alimi": {
@@ -575,12 +791,28 @@
   "son_basvuru": null,
   "sonuc": "DIKKAT"
  },
+ "https://www.memurjet.com/is-ilanlari/dicle-universitesi-21-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Dicle Üniversitesi 21 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-14",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/dicle-universitesi-257-sozlesmeli-personel-memur-alim-ilani": {
   "baslik": "Dicle Üniversitesi 257 Sözleşmeli Personel Memur Alım İlanı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": null,
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/dicle-universitesi-35-ogretim-uyesi-alim-ilani": {
+  "baslik": "Dicle Üniversitesi 35 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-09",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/dicle-universitesi-8-ogretim-uyesi-alimi": {
@@ -610,10 +842,18 @@
  "https://www.memurjet.com/is-ilanlari/didim-belediye-baskanligi-18-zabita-memuru-alimi": {
   "baslik": "Didim Belediye Başkanlığı 18 Zabıta Memuru Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-23",
   "sonuc": "KESIN"
+ },
+ "https://www.memurjet.com/is-ilanlari/disisleri-bakanligi-80-aday-konsolosluk-memoru-alim": {
+  "baslik": "Dışişleri Bakanlığı 80 Aday Konsolosluk Memuru Alım",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-17",
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/dogu-marmara-kalkinma-ajansi-5-personel-alim-ilani": {
   "baslik": "Doğu Marmara Kalkınma Ajansı 5 Personel Alım İlanı",
@@ -621,6 +861,38 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-27",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/dokuz-eylul-uni-8-ogretim-gorevlisi-alim-ilani": {
+  "baslik": "Dokuz Eylül Üni. 8 Öğretim Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-10",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/dokuz-eylul-universitesi-11-ogretim-uyesi-alim-ilani": {
+  "baslik": "Dokuz Eylül Üniversitesi 11 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-10",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/dokuz-eylul-universitesi-4-ogretim-gorevlisi-alim-ilani": {
+  "baslik": "Dokuz Eylül Üniversitesi 4 Öğretim Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-10",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/duzce-universitesi-1-doktor-ogretim-uyesi-alim-ilani": {
+  "baslik": "Düzce Üniversitesi 1 Doktor Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-17",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/duzce-universitesi-153-sozlesmeli-personel-alimi": {
@@ -647,6 +919,14 @@
   "son_basvuru": null,
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/ege-universitesi-5-arastirma-gorevlisi-alim-ilani": {
+  "baslik": "Ege Üniversitesi 5 Araştırma Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-15",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/ege-universitesi-76-ogretim-uyesi-alimi": {
   "baslik": "Ege Üniversitesi 76 Öğretim Üyesi Alımı",
   "bildirilen": false,
@@ -669,6 +949,22 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-21",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/erzincan-binali-yildirim-uni-1-ogretim-uyesi-alim-ilani": {
+  "baslik": "Erzincan Binali Yıldırım Üni. 1 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-03",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/erzurum-teknik-uni-14-ogretim-uyesi-alim-ilani": {
+  "baslik": "Erzurum Teknik Üni. 14 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-18",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/erzurum-teknik-uni-16-sozlesmeli-personel-alimi": {
@@ -719,12 +1015,36 @@
   "son_basvuru": "2026-09-25",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/gaziantep-islam-bilim-ve-tek-uni-29-alim-ilani": {
+  "baslik": "Gaziantep İslam Bilim ve Tek. Üni. 29 Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-15",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/gebze-teknik-uni-5-arastirma-gorevlisi-alimi": {
   "baslik": "Gebze Teknik Üni. 5 Araştırma Görevlisi Alımı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-07",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/gebze-teknik-universitesi-10-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Gebze Teknik Üniversitesi 10 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-14",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/gebze-teknik-universitesi-12-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Gebze Teknik Üniversitesi 12 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-14",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/gebze-teknik-universitesi-13-ogretim-uyesi-alimi": {
@@ -799,12 +1119,52 @@
   "son_basvuru": "2026-10-09",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/giresun-universitesi-4-ogretim-gorevlisi-alim-ilani": {
+  "baslik": "Giresun Üniversitesi 4 Öğretim Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-21",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/goc-idaresi-baskanligi-3-bilisim-personeli-alim-ilani": {
   "baslik": "Göç İdaresi Başkanlığı 3 Bilişim Personeli Alım İlanı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-04",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/goc-idaresi-baskanligi-40-il-goc-uzman-yardimcisi-alim-ilani": {
+  "baslik": "Göç İdaresi Başkanlığı 40 İl Göç Uzman Yardımcısı Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-09",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/gole-belediye-3-memur-alim-ilani": {
+  "baslik": "Göle Belediye 3 Memur Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-06",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/goynucek-belediye-1-muhendis-alim-ilani": {
+  "baslik": "Göynücek Belediye 1 Mühendis Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/hacettepe-universitesi-17-ogretim-elemani-alim-ilani": {
+  "baslik": "Hacettepe Üniversitesi 17 Öğretim Elemanı Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/hacettepe-universitesi-71-ogretim-uyesi-alimi": {
@@ -815,12 +1175,36 @@
   "son_basvuru": "2026-10-09",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/hakkari-universitesi-14-ogretim-elemani-alim-ilani": {
+  "baslik": "Hakkari Üniversitesi 14 Öğretim Elemanı Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-28",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/hanak-belediye-baskanligi-3-memur-alim-ilani": {
+  "baslik": "Hanak Belediye Başkanlığı 3 Memur Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-07",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/harran-universitesi-406-sozlesmeli-personel-memor-alim-ilani": {
   "baslik": "Harran Üniversitesi 406 Sözleşmeli Personel Memor Alım İlanı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": null,
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/hatay-mustafa-kemal-uni-2-sozlesmeli-bilisim-alim-ilani": {
+  "baslik": "Hatay Mustafa Kemal Üni. 2 Sözleşmeli Bilişim Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-08",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/hatay-mustafa-kemal-uni-22-ogretim-elemani-alimi": {
@@ -869,6 +1253,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-13",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/inebolu-belediye-1-hizmetli-alim-ilani": {
+  "baslik": "İnebolu Belediye 1 Hizmetli Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-08",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/inebolu-belediye-baskanligi-1-daimi-isci-alimi": {
@@ -1095,6 +1487,54 @@
   "son_basvuru": "2026-11-02",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/karabuk-universitesi-23-ogretim-uyesi-alim-ilani": {
+  "baslik": "Karabük Üniversitesi 23 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/karabuk-universitesi-3-ogretim-gorevlisi-alim-ilani": {
+  "baslik": "Karabük Üniversitesi 3 Öğretim Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/karaburun-belediyesi-4-zabita-memuru-alim-ilani": {
+  "baslik": "Karaburun Belediyesi 4 Zabıta Memuru Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-06",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/karadeniz-teknik-uni-1-isci-alim-ilani": {
+  "baslik": "Karadeniz Teknik Üni. 1 İşçi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-07",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/karadeniz-teknik-uni-93-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Karadeniz Teknik Üni. 93 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-18",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/karadeniz-teknik-universitesi-1-isci-alim-ilani": {
+  "baslik": "Karadeniz Teknik Üniversitesi 1 İşçi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-07",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/karadeniz-teknik-universitesi-35-ogretim-memur-alim-ilani": {
   "baslik": "Karadeniz Teknik Üniversitesi 35 Öğretim Memur Alım İlanı",
   "bildirilen": false,
@@ -1119,6 +1559,14 @@
   "son_basvuru": null,
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/karamik-karacaoren-bel-14-isci-alim-ilani": {
+  "baslik": "Karamık Karacaören Bel. 14 İşçi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-08-31",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/karayollari-genel-mudurlugu-50-duz-isci-alim-ilani": {
   "baslik": "Karayolları Genel Müdürlüğü 50 Düz İşçi Alım İlanı",
   "bildirilen": false,
@@ -1135,6 +1583,14 @@
   "son_basvuru": "2026-09-25",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/kastamonu-universitesi-46-ogretim-uyesi-alim-ilani": {
+  "baslik": "Kastamonu Üniversitesi 46 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-2-ogretim-elemani-alim-ilani": {
   "baslik": "Kayseri Üniversitesi 2 Öğretim Elemanı Alım İlanı",
   "bildirilen": false,
@@ -1143,12 +1599,28 @@
   "son_basvuru": "2026-10-01",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-2-ogretim-gorevlisi-alim-ilani": {
+  "baslik": "Kayseri Üniversitesi 2 Öğretim Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-14",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-24-sozlesmeli-personel-memur-alim-ilani": {
   "baslik": "Kayseri Üniversitesi 24 Sözleşmeli Personel Memur Alım İlanı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": null,
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-6-ogretim-uyesi-alim-ilani": {
+  "baslik": "Kayseri Üniversitesi 6 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-14",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-7-ogretim-uyesi-alim-ilani": {
@@ -1183,12 +1655,44 @@
   "son_basvuru": null,
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/kilis-7-aralik-universitesi-23-ogretim-uyesi-alim-ilani": {
+  "baslik": "Kilis 7 Aralık Üniversitesi 23 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-15",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/kirikkale-universitesi-133-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Kırıkkale Üniversitesi 133 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-11",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/kirikkale-universitesi-19-ogretim-uyesi-alimi": {
   "baslik": "Kırıkkale Üniversitesi 19 Öğretim Üyesi Alımı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-02",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/kirikkale-universitesi-2-ogretim-uyesi-alim-ilani": {
+  "baslik": "Kırıkkale Üniversitesi 2 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-28",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/kirikkale-universitesi-3-ogretim-gorevlisi-alim-ilani": {
+  "baslik": "Kırıkkale Üniversitesi 3 Öğretim Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-28",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/kirikkale-universitesi-42-ogretim-uyesi-memur-alim-ilani": {
@@ -1335,12 +1839,36 @@
   "son_basvuru": "2026-10-23",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/kiyi-emniyeti-mudurlugu-152-isci-alim-ilani": {
+  "baslik": "Kıyı Emniyeti Müdürlüğü 152 İşçi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-08-21",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/kocaeli-universitesi-25-ogretim-uyesi-alimi": {
   "baslik": "Kocaeli Üniversitesi 25 Öğretim Üyesi Alımı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-08",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/konya-teknik-universitesi-26-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Konya Teknik Üniversitesi 26 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-11",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/koseli-belediye-baskanligi-4-memur-alim-ilani": {
+  "baslik": "Köseli Belediye Başkanlığı 4 Memur Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-23",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/kosgeb-15-destek-elemani-memur-alim-ilani-1": {
@@ -1383,12 +1911,44 @@
   "son_basvuru": null,
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/kutahya-dumlupinar-uni-10-ogretim-uyesi-alim-ilani": {
+  "baslik": "Kütahya Dumlupınar Üni. 10 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-22",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/kutahya-dumlupinar-uni-11-ogretim-elemani-alimi": {
   "baslik": "Kütahya Dumlupınar Üni. 11 Öğretim Elemanı Alımı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-09",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/kutahya-saglik-bilimleri-uni-1-ogretim-gorevlisi-alim-ilani": {
+  "baslik": "Kütahya Sağlık Bilimleri Üni. 1 Öğretim Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-28",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/kutahya-saglik-bilimleri-uni-20-ogretim-uyesi-alim-ilani": {
+  "baslik": "Kütahya Sağlık Bilimleri Üni. 20 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-21",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/malatya-turgut-ozal-uni-13-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Malatya Turgut Özal Üni. 13 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-14",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/malatya-turgut-ozal-uni-36-ogretim-uyesi-alimi": {
@@ -1405,6 +1965,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-04",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/manisa-celal-bayar-uni-142-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Manisa Celal Bayar Üni. 142 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-17",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/marmara-universitesi-135-ogretim-uyesi-alimi": {
@@ -1450,7 +2018,7 @@
  "https://www.memurjet.com/is-ilanlari/milli-saraylar-idaresi-158-sozlesmeli-personel-alimi": {
   "baslik": "Millî Saraylar İdaresi 158 Sözleşmeli Personel Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-22",
   "sonuc": "DIKKAT"
@@ -1461,6 +2029,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-20",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/milli-savunma-bak-19-hukuk-sinifi-muvazzaf-subay-alim-ilani": {
+  "baslik": "Millî Savunma Bak. 19 Hukuk Sınıfı Muvazzaf Subay Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-07",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/milli-savunma-bak-251-ogretmen-muhendis-subay-alimi": {
@@ -1486,6 +2062,14 @@
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-12-31",
   "sonuc": "DIKKAT"
+ },
+ "https://www.memurjet.com/is-ilanlari/mimar-sinan-guzel-sanatlar-uni-10-alim-ilani": {
+  "baslik": "Mimar Sinan Güzel Sanatlar Üni. 10 Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-21",
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/mimar-sinan-guzel-sanatlar-uni-3-ogretim-uyesi-alimi": {
   "baslik": "Mimar Sinan Güzel Sanatlar Üni. 3 Öğretim Üyesi Alımı",
@@ -1519,6 +2103,22 @@
   "son_basvuru": "2026-10-08",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/mucur-belediyesi-4-memur-itfaiye-eri-alim-ilani-duzeltme-ilani": {
+  "baslik": "Mucur Belediyesi 4 Memur İtfaiye Eri Alım İlanı (Düzeltme İlanı)",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-07",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/munzur-universitesi-17-ogretim-uyesi-alim-ilani": {
+  "baslik": "Munzur Üniversitesi 17 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-14",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/necmettin-erbakan-uni-7-arastirma-gorevlisi-alim-ilani": {
   "baslik": "Necmettin Erbakan Üni. 7 Araştırma Görevlisi Alım İlanı",
   "bildirilen": false,
@@ -1541,6 +2141,22 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-28",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/nevsehir-haci-bektas-veli-uni-1-arastirma-alim-ilani": {
+  "baslik": "Nevşehir Hacı Bektaş Veli Üni. 1 Araştırma Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-28",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/nevsehir-haci-bektas-veli-uni-2-ogretim-alim-ilani": {
+  "baslik": "Nevşehir Hacı Bektaş Veli Üni. 2 Öğretim Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-23",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/nigde-omer-halisdemir-uni-120-ogretim-uyesi-alim-ilani": {
@@ -1567,12 +2183,52 @@
   "son_basvuru": "2026-10-12",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/ondokuz-mayis-universitesi-141-sozlesmeli-memur-alim-ilani": {
+  "baslik": "Ondokuz Mayıs Üniversitesi 141 Sözleşmeli Memur Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-08-28",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/ondokuz-mayis-universitesi-35-ogretim-uyesi-alimi": {
   "baslik": "Ondokuz Mayıs Üniversitesi 35 Öğretim Üyesi Alımı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-27",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/ondokuz-mayis-universitesi-78-ogretim-uyesi-alim-ilani": {
+  "baslik": "Ondokuz Mayıs Üniversitesi 78 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-16",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/ordu-universitesi-15-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Ordu Üniversitesi 15 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-09",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/ordu-universitesi-20-ogretim-uyesi-alim-ilani": {
+  "baslik": "Ordu Üniversitesi 20 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-07",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/ordu-universitesi-5-ogretim-elemani-alim-ilani": {
+  "baslik": "Ordu Üniversitesi 5 Öğretim Elemanı Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-07",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/orta-anadolu-kalkinma-ajansi-7-personel-alimi": {
@@ -1658,10 +2314,26 @@
  "https://www.memurjet.com/is-ilanlari/pursaklar-belediye-baskanligi-9-zabita-memuru-alimi": {
   "baslik": "Pursaklar Belediye Başkanlığı 9 Zabıta Memuru Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-23",
   "sonuc": "DIKKAT"
+ },
+ "https://www.memurjet.com/is-ilanlari/recep-tayyip-erdogan-uni-1-ogretim-gorevlisi-alim-ilani": {
+  "baslik": "Recep Tayyip Erdoğan Üni. 1 Öğretim Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-07",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/recep-tayyip-erdogan-uni-12-ogretim-uyesi-alim-ilani": {
+  "baslik": "Recep Tayyip Erdoğan Üni. 12 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-07",
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/recep-tayyip-erdogan-uni-25-ogretim-uyesi-alimi": {
   "baslik": "Recep Tayyip Erdoğan Üni. 25 Öğretim Üyesi Alımı",
@@ -1671,12 +2343,60 @@
   "son_basvuru": "2026-10-09",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/reyhanli-belediye-2-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Reyhanlı Belediye 2 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/rize-belediye-baskanligi-1-jeoloji-muhendisi-alim-ilani": {
+  "baslik": "Rize Belediye Başkanlığı 1 Jeoloji Mühendisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-02",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/rize-belediye-baskanligi-1-muhendis-alim-ilani": {
+  "baslik": "Rize Belediye Başkanlığı 1 Mühendis Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-02",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/saglik-bilimleri-uni-13-destek-personeli-alim-ilani": {
+  "baslik": "Sağlık Bilimleri Üni. 13 Destek Personeli Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-21",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/saglik-bilimleri-uni-21-ogretim-arastirma-alim-ilani": {
+  "baslik": "Sağlık Bilimleri Üni. 21 Öğretim Araştırma Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-22",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/saglik-bilimleri-universitesi-236-ogretim-uyesi-alimi": {
   "baslik": "Sağlık Bilimleri Üniversitesi 236 Öğretim Üyesi Alımı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-28",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/saglik-bilimleri-universitesi-92-ogretim-uyesi-alim-ilani": {
+  "baslik": "Sağlık Bilimleri Üniversitesi 92 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-19",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/sakarya-uygulamali-bilimler-4-ogretim-gorevlisi-alimi": {
@@ -1695,6 +2415,22 @@
   "son_basvuru": "2026-10-21",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/samsun-universitesi-12-ogretim-uyesi-alim-ilani": {
+  "baslik": "Samsun Üniversitesi 12 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-21",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/samsun-universitesi-2-ogretim-elemani-alim-ilani": {
+  "baslik": "Samsun Üniversitesi 2 Öğretim Elemanı Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/samsun-universitesi-24-ogretim-uyesi-memur-alim-ilani": {
   "baslik": "Samsun Üniversitesi 24 Öğretim Üyesi Memur Alım İlanı",
   "bildirilen": false,
@@ -1711,12 +2447,36 @@
   "son_basvuru": "2026-10-17",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/samsun-universitesi-3-ogretim-uyesi-alim-ilani": {
+  "baslik": "Samsun Üniversitesi 3 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/samsun/19-mayis": {
   "baslik": "19 Mayıs Memur Alımı 2026 (Samsun)",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": null,
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/sanayi-ve-teknoloji-bak-19-bilisim-personeli-alim-ilani": {
+  "baslik": "Sanayi Ve Teknoloji Bak. 19 Bilişim Personeli Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-08-31",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/saray-belediye-baskanligi-6-memur-alim-ilani": {
+  "baslik": "Saray Belediye Başkanlığı 6 Memur Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-23",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/sariidris-belediye-baskanligi-1-zabita-memuru-alimi": {
@@ -1751,6 +2511,22 @@
   "son_basvuru": "2026-10-26",
   "sonuc": "DIKKAT"
  },
+ "https://www.memurjet.com/is-ilanlari/sigortacilik-ve-ozel-emeklilik-duddk-10-memur-alim-ilani": {
+  "baslik": "Sigortacılık ve Özel Emeklilik DÜDDK 10 Memur Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-10-09",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/siirt-universitesi-52-ogretim-uyesi-alim-ilani": {
+  "baslik": "Siirt Üniversitesi 52 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-14",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/siirt-universitesi-6-ogretim-uyesi-alimi": {
   "baslik": "Siirt Üniversitesi 6 Öğretim Üyesi Alımı",
   "bildirilen": false,
@@ -1775,12 +2551,28 @@
   "son_basvuru": "2026-11-06",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/sinop-universitesi-25-ogretim-uyesi-alim-ilani": {
+  "baslik": "Sinop Üniversitesi 25 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-23",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/sirnak-universitesi-14-ogretim-uyesi-alimi": {
   "baslik": "Şırnak Üniversitesi 14 Öğretim Üyesi Alımı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-26",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/sirnak-universitesi-6-ogretim-uyesi-alim-ilani": {
+  "baslik": "Şırnak Üniversitesi 6 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-17",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/sirnak-universitesi-7-ogretim-gorevlisi-alimi": {
@@ -1805,6 +2597,22 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-02",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/sivas-cumhuriyet-uni-312-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Sivas Cumhuriyet Üni. 312 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-11",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/sivil-hav-gen-mud-14-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Sivil Hav. Gen. Müd. 14 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-14",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/sosyal-guvenlik-kurumu-10-sozlesmeli-memur-alim-ilani": {
@@ -1855,6 +2663,14 @@
   "son_basvuru": "2026-10-07",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/tarsus-universitesi-7-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Tarsus Üniversitesi 7 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-24",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/tarsus-universitesi-9-ogretim-uyesi-alim-ilani": {
   "baslik": "Tarsus Üniversitesi 9 Öğretim Üyesi Alım İlanı",
   "bildirilen": false,
@@ -1901,6 +2717,22 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-26",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/teias-12-engelli-isci-alim-ilani": {
+  "baslik": "TEİAŞ 12 Engelli İşçi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/teias-genel-mudurlugu-17-eski-hukumlu-isci-alim-ilani": {
+  "baslik": "TEİAŞ Genel Müdürlüğü 17 Eski Hükümlü İşçi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/tekirdag-namik-kemal-uni-77-sozlesmeli-personel-alimi": {
@@ -1967,6 +2799,22 @@
   "son_basvuru": "2026-10-13",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/trabzon-universitesi-13-ogretim-elemani-alim-ilani": {
+  "baslik": "Trabzon Üniversitesi 13 Öğretim Elemanı Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-23",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/tubitak-13-personel-alim-ilani": {
+  "baslik": "TÜBİTAK 13 Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-07",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/tubitak-647-personel-alim-ilani": {
   "baslik": "TÜBİTAK 647 Personel Alım İlanı",
   "bildirilen": false,
@@ -2018,7 +2866,7 @@
  "https://www.memurjet.com/is-ilanlari/turk-patent-ve-marka-1-kidemli-yazilim-mimari-alimi": {
   "baslik": "Türk Patent ve Marka 1 Kıdemli Yazılım Mimarı Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-22",
   "sonuc": "DIKKAT"
@@ -2031,6 +2879,38 @@
   "son_basvuru": "2026-10-26",
   "sonuc": "DIKKAT"
  },
+ "https://www.memurjet.com/is-ilanlari/turk-standardlari-enstitusu-129-personel-memur-alim-ilani": {
+  "baslik": "Türk Standardları Enstitüsü 129 Personel Memur Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-11",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/turk-standartlari-ens-27-sozlesmeli-personel-alim-ilani": {
+  "baslik": "Türk Standartları Ens. 27 Sözleşmeli Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-11",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/turkeli-belediye-baskanligi-1-memur-alim-ilani": {
+  "baslik": "Türkeli Belediye Başkanlığı 1 Memur Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/turkiye-insan-haklari-ve-esitlik-kurumu-4-alim-ilani": {
+  "baslik": "Türkiye İnsan Hakları ve Eşitlik Kurumu 4 Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-27",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/turkiye-is-kurumu-11-sozlesmeli-bilisim-personeli-alimi": {
   "baslik": "Türkiye İş Kurumu 11 Sözleşmeli Bilişim Personeli Alımı",
   "bildirilen": true,
@@ -2039,6 +2919,14 @@
   "son_basvuru": "2026-11-08",
   "sonuc": "DIKKAT"
  },
+ "https://www.memurjet.com/is-ilanlari/turkiye-saglik-enst-2-hizmetli-alim-ilani": {
+  "baslik": "Türkiye Sağlık Enst. 2 Hizmetli Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-11",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/turkiye-saglik-enstituleri-baskanligi-9-memur-alim-ilani": {
   "baslik": "TÜRKİYE SAĞLIK ENSTİTÜLERİ BAŞKANLIĞI 9 Memur Alım İlanı",
   "bildirilen": true,
@@ -2046,6 +2934,22 @@
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": null,
   "sonuc": "DIKKAT"
+ },
+ "https://www.memurjet.com/is-ilanlari/turkiye-seker-fabrikalari-83-surekli-isci-alim-ilani": {
+  "baslik": "Türkiye Şeker Fabrikaları 83 Sürekli İşçi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-18",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/turkiye-seker-fabrikalari-a-s-99-isci-alim-ilani": {
+  "baslik": "Türkiye Şeker Fabrikaları A.Ş. 99 İşçi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-18",
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/turkiye-su-enstitusu-1-bilgisayar-muh-memur-alim-ilani": {
   "baslik": "Türkiye Su Enstitüsü 1 Bilgisayar Müh. Memur Alım İlanı",
@@ -2079,6 +2983,14 @@
   "son_basvuru": "2026-10-12",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/turkiye-uluslararasi-islam-uni-5-arastirma-alim-ilani": {
+  "baslik": "Türkiye Uluslararası İslam Üni. 5 Araştırma  Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-10",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/tuseb-15-muhendis-ve-avukat-memur-alim-ilani": {
   "baslik": "TÜSEB 15 Mühendis ve Avukat Memur Alım İlanı",
   "bildirilen": false,
@@ -2087,12 +2999,36 @@
   "son_basvuru": null,
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/ula-belediye-baskanligi-1-muhendis-alim-ilani": {
+  "baslik": "Ula Belediye Başkanlığı 1 Mühendis Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-23",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/usak-universitesi-2-ogretim-gorevlisi-alim-ilani": {
+  "baslik": "Uşak Üniversitesi 2 Öğretim Görevlisi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-14",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/usak-universitesi-7-ogretim-uyesi-alimi": {
   "baslik": "Uşak Üniversitesi 7 Öğretim Üyesi Alımı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-19",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/uzundere-belediye-baskanligi-1-muhendis-alim-ilani": {
+  "baslik": "Uzundere Belediye Başkanlığı 1 Mühendis Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/vakiflar-gen-mud-5-vakif-uzman-yardimcisi-alimi": {
@@ -2111,10 +3047,18 @@
   "son_basvuru": "2026-10-16",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/yalova-universitesi-4-ogretim-uyesi-alim-ilani": {
+  "baslik": "Yalova Üniversitesi 4 Öğretim Üyesi Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-07",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/yargitay-bsk-4-sozlesmeli-bilisim-personeli-alimi": {
   "baslik": "Yargıtay Bşk. 4 Sözleşmeli Bilişim Personeli Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-23",
   "sonuc": "DIKKAT"
@@ -2133,6 +3077,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-15",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/yozgat-bozok-universitesi-12-ogretim-elemani-alim-ilani": {
+  "baslik": "Yozgat Bozok Üniversitesi 12 Öğretim Elemanı Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-21",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/yozgat-bozok-universitesi-17-ogretim-uyesi-alimi": {
@@ -2157,6 +3109,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-09-29",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/zonguldak-bulent-ecevit-uni-1-profesor-alim-ilani": {
+  "baslik": "Zonguldak Bülent Ecevit Üni. 1 Profesör Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-21",
+  "son_basvuru": "2026-09-25",
   "sonuc": null
  }
 }
