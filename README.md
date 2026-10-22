@@ -9,6 +9,9 @@ Memurjet'teki açık kamu ilanlarını her gün otomatik tarar, `profile.yml`'de
 4. Sonuç iki grup: **✅ Uygun** ve **⚠️ Kontrol et** (deneyim/YDS/bölüm belirsiz). Kahramanmaraş'lı ilanlar 📍 ile öne çıkar.
 5. `ACIK_ILANLAR.md` her gün güncellenir, `data/state.json` hangi ilanı bildirdiğini hatırlar (aynı ilan iki kez bildirilmez).
 
+## Web sayfası (GitHub Pages)
+Her taramada `docs/index.html` yeniden üretilir: telefonda rahat okunan, aranabilir ve filtrelenebilir (Uygun / Kontrol et / Öncelikli il) bir ilan listesi. Açmak için bir kez: repo **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `/docs` → Save**. Adres: `https://<kullanıcı>.github.io/memur-ilan-takip/`. Sayfada kişisel profil bilgisi (puan, doğum yılı) yer almaz.
+
 ## Bildirim (hepsi bedava)
 - **GitHub Issue** (varsayılan, kurulum gerekmez): yeni ilan olunca bir Issue açılır. Sana e-posta gelir; GitHub mobil uygulamasını kurarsan telefona push da gelir. Repo'da *Watch → All activity* açık olsun.
 - **ntfy.sh** (opsiyonel, anlık telefon bildirimi): telefona ntfy uygulamasını kur, tahmin edilmesi zor bir konu adı seç (ör. `kaan-ilan-8f3k2x`), uygulamada abone ol, repo *Settings → Secrets and variables → Actions* içine `NTFY_TOPIC` olarak ekle.

@@ -30,6 +30,7 @@ def metin_cikar(html: str):
         m = re.search(r"/is-ilanlari/([a-z0-9-]+)$", h)
         if m and not re.search(r"\d", m.group(1)):
             t = a.get_text(" ", strip=True)
+            t = re.sub(r"\s+ilanları$", "", t)
             if t and len(t) < 80 and _kucuk(t) not in ILLER and t not in unvanlar and not t.startswith("Nasıl"):
                 unvanlar.append(t)
     lines = [l.strip() for l in soup.get_text("\n").split("\n")]
@@ -112,10 +113,11 @@ def parse_ilan(html: str, url: str, bugun=None) -> dict:
     d["cinsiyet_siniri"] = _kucuk(m.group(1)) if m else None
 
     # --- başvuru yolu ---
-    m = re.search(r"Nasıl başvurulur\?\s*\n(.*?)(?:\nKaynak:|\Z)", text, re.S)
+    ms = list(re.finditer(r"Nasıl başvurulur\?\s*\n(.*?)(?:\nKaynak:|\Z)", text, re.S))
+    m = ms[-1] if ms else None   # sayfada başta da bir "Nasıl başvurulur?" bağlantısı var; asıl bölüm sonuncusu
     yol = ""
     if m:
-        adaylar = [l for l in m.group(1).split("\n") if not re.match(r"^(Başlangıç|Son başvuru|Başvuru Saati|\d)", l)]
+        adaylar = [l for l in m.group(1).split("\n") if not re.match(r"^(Başlangıç|Son başvuru|Başvuru Saati|Başvuru tarihleri|Nasıl|\d)", l)]
         yol = " ".join(adaylar[:2])
     d["basvuru_yolu"] = yol[:200] or None
     d["tam_metin"] = text

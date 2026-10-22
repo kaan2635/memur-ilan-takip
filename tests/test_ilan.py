@@ -95,5 +95,17 @@ class Eslestirme(unittest.TestCase):
         self.assertIsNone(match.degerlendir(self.ilan(h), PROFIL, BUGUN)["sonuc"])
 
 
+class Sayfa(unittest.TestCase):
+    def test_sayfa_uretimi(self):
+        from src import sayfa
+        d = parse.parse_ilan(KESAN, "u", BUGUN)
+        d["degerlendirme"] = match.degerlendir(d, PROFIL, BUGUN)
+        d.pop("tam_metin")
+        html = sayfa.uret([d], BUGUN)
+        self.assertIn("Keşan Belediye Başkanlığı", html)
+        self.assertNotIn("</script><", html.split('id="veri"')[1].split("</script>")[0])
+        self.assertNotIn("p3_puani", html)
+
+
 if __name__ == "__main__":
     unittest.main()
