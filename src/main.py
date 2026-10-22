@@ -34,11 +34,12 @@ def yukle(p, varsayilan):
         return varsayilan
 
 
-def isle(s, url, profil, bugun):
+def isle(s, url, profil, bugun, liste_set=frozenset()):
     html = fetch.get(s, url)
     if not html:
         return url, None
     ilan = parse.parse_ilan(html, url, bugun)
+    ilan["listede"] = url in liste_set
     ilan["degerlendirme"] = match.degerlendir(ilan, profil, bugun)
     ilan.pop("tam_metin", None)
     time.sleep(0.3)
@@ -57,18 +58,11 @@ def main():
     if a.url:
         html = fetch.get(s, a.url)
         ilan = parse.parse_ilan(html, a.url, bugun)
+        ilan["listede"] = True
         ilan["degerlendirme"] = match.degerlendir(ilan, profil, bugun)
         ilan_kisa = {k: v for k, v in ilan.items() if k != "tam_metin"}
         print(json.dumps(ilan_kisa, ensure_ascii=False, indent=2, default=str))
         return
-
-    dbg = ROOT / "debug_urls.txt"          # geçici: ham HTML örneklerini debug/ altına kaydeder (ayrıştırıcıyı gerçek sayfayla doğrulamak için)
-    if dbg.exists():
-        (ROOT / "debug").mkdir(exist_ok=True)
-        for u in dbg.read_text().split():
-            h = fetch.get(s, u)
-            if h:
-                (ROOT / "debug" / (u.rstrip("/").rsplit("/", 1)[-1] + ".html")).write_text(h, encoding="utf-8")
 
     state = yukle(DATA / "state.json", {})   # url -> {ilk_gorulme, son_basvuru, sonuc, bildirilen, hatirlatilan}
     liste = fetch.liste_kesfet(s)
@@ -86,7 +80,7 @@ def main():
 
     ilanlar, basarisiz = {}, 0
     with ThreadPoolExecutor(max_workers=4) as ex:
-        for url, ilan in ex.map(lambda u: isle(s, u, profil, bugun), sorted(islenecek)):
+        for url, ilan in ex.map(lambda u: isle(s, u, profil, bugun, liste), sorted(islenecek)):
             if ilan is None:
                 basarisiz += 1
             else:

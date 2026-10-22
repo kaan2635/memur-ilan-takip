@@ -7,6 +7,8 @@ from .parse import _kucuk
 EE_RE = re.compile(r"elektrik\s*(?:[-–/]|ve)?\s*elektronik|elektronik|elektrik|haberleşme|kontrol\s+ve\s+otomasyon|mekatronik", re.I)
 MUH_GENEL_RE = re.compile(r"tüm\s+(?:dört\s+yıllık\s+)?mühendislik|dört\s+yıllık\s+tüm\s+mühendislik|mühendislik\s+(?:lisans\s+)?(?:programları|fakülteleri|bölümleri)|ilgili\s+mühendislik|mühendislik\s+lisans", re.I)
 GENEL_RE = re.compile(r"herhangi\s+bir\s+(?:lisans|bölüm|fakülte)|tüm\s+lisans|her\s+(?:türlü|bölüm)|bölüm\s+(?:şartı|fark)\s+(?:aranmaz|yok)|fark\s+etmeksizin", re.I)
+ASKERI_RE = re.compile(r"muvazzaf|subay|astsubay|komiser\s+yardımcısı|polis\s+(?:memuru|akademisi)|uzman\s+erbaş|sözleşmeli\s+er\b", re.I)
+BELIRSIZ_RE = re.compile(r"tablo|ekte|ilan\s+metni|belirtilen\s+(?:lisans|bölüm)|ilgili\s+(?:alan|bölüm)|unvana\s+göre|değişiklik", re.I)
 AKADEMIK_RE = re.compile(r"öğretim\s+(?:üyesi|elemanı|görevlisi)|doçent|profesör|akademik\s+personel|araştırma\s+görevlisi|öğr\.\s*üyesi", re.I)
 KAPANDI_RE = re.compile(r"başvuru(?:lar)?\s+(?:süresi\s+)?(?:sona\s+erdi|kapandı)|ilan\s+kapandı", re.I)
 
@@ -35,12 +37,23 @@ def degerlendir(ilan: dict, profil: dict, bugun: date = None) -> dict:
     else:
         if KAPANDI_RE.search(flat):
             return sonuc(None, "ilan kapanmış")
+        if not ilan.get("listede", True):
+            return sonuc(None, "tarihi yok ve açık ilan listesinde görünmüyor (eski ilan)")
         uy.append("son başvuru tarihi okunamadı, ilan sayfasından doğrula")
 
-    # 2) akademik
+    hariç = [h.lower() for h in profil.get("haric_kadrolar", ["zabıta", "itfaiye", "koruma ve güvenlik", "temizlik", "hizmetli", "şoför", "bekçi", "gassal"])]
+    unv = ilan.get("unvanlar", [])
+    if hariç and ((unv and all(any(h in _kucuk(u) or h in u.lower() for h in hariç) for u in unv))
+                  or any(h in ilan.get("baslik", "").lower() for h in hariç)):
+        return sonuc(None, "profildeki hariç kadro türü (zabıta/itfaiye/güvenlik vb.)")
+
+    # 2) akademik / askeri
     ogr = ilan.get("ogrenim", [])
-    if AKADEMIK_RE.search(ilan.get("baslik", "")) and not any(EE_RE.search(o) for o in ogr):
+    ist = (ilan.get("istihdam") or "") + " " + (ilan.get("meta") or "")
+    if re.search(r"akademik\s+personel", ist, re.I) or AKADEMIK_RE.search(ilan.get("baslik", "")):
         return sonuc(None, "akademik kadro")
+    if re.search(r"askeri", ist, re.I) or ASKERI_RE.search(ilan.get("baslik", "")):
+        return sonuc(None, "askeri/kolluk kadrosu")
 
     # 3) öğrenim düzeyi
     if ogr:
@@ -57,9 +70,11 @@ def degerlendir(ilan: dict, profil: dict, bugun: date = None) -> dict:
     bolumler = [o.split("·", 1)[1].strip() if "·" in o else "" for o in lisans]
     unvanlar = ilan.get("unvanlar", [])
     ee = any(EE_RE.search(b) for b in bolumler) or any(EE_RE.search(u) and re.search(r"müh", u, re.I) for u in unvanlar)
-    muh = any(MUH_GENEL_RE.search(b) for b in bolumler) or bool(MUH_GENEL_RE.search(flat))
+    muh = any(MUH_GENEL_RE.search(b) for b in bolumler) or bool(MUH_GENEL_RE.search(flat)) or \
+        any(x.strip().lower() == "mühendislik" for b in bolumler for x in re.split(r"[,/]", b))
     genel = any(GENEL_RE.search(b) for b in bolumler) or bool(GENEL_RE.search(flat))
-    bos = any(b == "" for b in bolumler) and bool(lisans)
+    ee = ee or bool(re.search(r"elektrik(?:\s*[-–/]|\s+ve)?\s*elektronik\s+müh|elektronik\s+(?:ve\s+haberleşme\s+)?müh|elektrik\s+müh", flat, re.I))
+    bos = any(b == "" or BELIRSIZ_RE.search(b) for b in bolumler) and bool(lisans)
     if not lisans and EE_RE.search(flat):
         ee = ee or bool(re.search(r"elektrik\s*(?:[-–/]|ve)?\s*elektronik\s+müh", flat, re.I))
 
@@ -117,7 +132,7 @@ def degerlendir(ilan: dict, profil: dict, bugun: date = None) -> dict:
         neden = "herhangi bir lisans / bölüm kısıtı yok"
     else:
         neden = "lisans düzeyi"
-    ciddi = deneyim_sorun or bos or (not kesin_bolum) or any("okunamadı" in u or "ayrıştırılamadı" in u for u in uy)
+    ciddi = deneyim_sorun or (bos and not ee) or (not kesin_bolum) or any("okunamadı" in u or "ayrıştırılamadı" in u for u in uy)
     if ilan.get("yds") and not profil.get("yds_var"):
         ciddi = True
     return sonuc("DIKKAT" if ciddi else "KESIN", neden)

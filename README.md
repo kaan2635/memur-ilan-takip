@@ -30,6 +30,9 @@ python -m src.main --url https://www.memurjet.com/is-ilanlari/kesan-belediye-bas
 python -m src.main --kuru                                                                                  # bildirim yazmadan tüm akış
 ```
 
+## Hariç tutulanlar
+Akademik (öğretim üyesi/elemanı) ve askeri/kolluk (subay, astsubay…) ilanlar, tarihi olup da açık listede görünmeyen eski ilanlar ve zabıta/itfaiye/güvenlik/temizlik gibi kadrolar otomatik elenir. Son kalem için `profile.yml`'ye `haric_kadrolar: []` yazarsan hepsini görürsün.
+
 ## Sınırlar
 - **Otomatik başvuru yok.** Başvurular e-Devlet / Kariyer Kapısı girişi ve kişisel belge gerektirir; sistem ilanı bulur, uygunluğunu işaretler, son tarihi ve başvuru linkini verir.
 - Kaynak Memurjet'tir; ilanların resmî metni (kamuilan.sbb.gov.tr, kurum siteleri) başvurmadan önce okunmalıdır. Eşleştirme kural tabanlıdır, "⚠️ Kontrol et" ilanlarda özellikle bölüm ve deneyim şartını kendin doğrula.
