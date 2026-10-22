@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "30 4 * * *"      # her gün 07:30 (Türkiye saati)
     - cron: "30 13 * * *"     # her gün 16:30 (Türkiye saati) — akşam çıkan ilanlar için
+  push:                        # kod veya profil değişince hemen yeniden tara (bot commit'leri tetiklemez)
+    paths: ["src/**", "profile.yml", ".github/workflows/gunluk.yml", "debug_urls.txt"]
   workflow_dispatch:           # elle çalıştırmak için
 
 permissions:
@@ -37,7 +39,7 @@ jobs:
         run: |
           git config user.name "ilan-takip-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -A data index.html ACIK_ILANLAR.md
+          git add -A data index.html ACIK_ILANLAR.md debug
           git diff --cached --quiet || git commit -m "Günlük tarama $(date -u +%F)"
           git pull --rebase -q || true
           git push

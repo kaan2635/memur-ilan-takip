@@ -62,6 +62,14 @@ def main():
         print(json.dumps(ilan_kisa, ensure_ascii=False, indent=2, default=str))
         return
 
+    dbg = ROOT / "debug_urls.txt"          # geçici: ham HTML örneklerini debug/ altına kaydeder (ayrıştırıcıyı gerçek sayfayla doğrulamak için)
+    if dbg.exists():
+        (ROOT / "debug").mkdir(exist_ok=True)
+        for u in dbg.read_text().split():
+            h = fetch.get(s, u)
+            if h:
+                (ROOT / "debug" / (u.rstrip("/").rsplit("/", 1)[-1] + ".html")).write_text(h, encoding="utf-8")
+
     state = yukle(DATA / "state.json", {})   # url -> {ilk_gorulme, son_basvuru, sonuc, bildirilen, hatirlatilan}
     liste = fetch.liste_kesfet(s)
     sitemap = fetch.sitemap_kesfet(s)
