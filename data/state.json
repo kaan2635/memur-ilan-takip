@@ -85,7 +85,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-30",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/adalet-bakanligi-150-icra-mudur-alimi": {
   "baslik": "Adalet Bakanlığı 150 İcra Müdür Alımı",
@@ -829,7 +829,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-17",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/bursa-eskisehir-bilecik-kalkinma-ajansi-1-uzman-alim-ilani": {
   "baslik": "Bursa Eskişehir Bilecik Kalkınma Ajansı 1 Uzman Alım İlanı",
@@ -1029,7 +1029,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-26",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/dalaman-belediyesi-2-sozlesmeli-personel-memur-alim-ilani": {
   "baslik": "Dalaman Belediyesi 2 Sözleşmeli Personel Memur Alım İlanı",
@@ -1193,11 +1193,11 @@
  },
  "https://www.memurjet.com/is-ilanlari/dogu-marmara-kalkinma-ajansi-5-personel-alim-ilani": {
   "baslik": "Doğu Marmara Kalkınma Ajansı 5 Personel Alım İlanı",
-  "bildirilen": false,
+  "bildirilen": true,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-27",
-  "sonuc": null
+  "sonuc": "DIKKAT"
  },
  "https://www.memurjet.com/is-ilanlari/dokuz-eylul-uni-8-ogretim-gorevlisi-alim-ilani": {
   "baslik": "Dokuz Eylül Üni. 8 Öğretim Görevlisi Alım İlanı",
@@ -1957,7 +1957,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-22",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/istanbul-medeniyet-universitesi-12-memur-alim-ilani": {
   "baslik": "İstanbul Medeniyet Üniversitesi 12 Memur Alım İlanı",
@@ -2133,7 +2133,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-26",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/jandarma-genel-komutanligi-5-sozlesmeli-bilisim-alim-ilani": {
   "baslik": "Jandarma Genel Komutanlığı 5 Sözleşmeli Bilişim Alım İlanı",
@@ -3005,7 +3005,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-02",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/milli-savunma-bakanligi-57-kidemli-memur-alim-ilani": {
   "baslik": "Millî Savunma Bakanlığı 57 Kıdemli Memur Alım İlanı",
@@ -3589,7 +3589,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-26",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/sgk-10-sozlesmeli-bilisim-personeli-memur-alim-ilani": {
   "baslik": "SGK 10 Sözleşmeli Bilişim Personeli Memur Alım İlanı",
@@ -4269,7 +4269,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": null,
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/turkiye-seker-fabrikalari-83-surekli-isci-alim-ilani": {
   "baslik": "Türkiye Şeker Fabrikaları 83 Sürekli İşçi Alım İlanı",
