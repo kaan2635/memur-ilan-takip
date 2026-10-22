@@ -10,7 +10,7 @@ Memurjet'teki açık kamu ilanlarını her gün otomatik tarar, `profile.yml`'de
 5. `ACIK_ILANLAR.md` her gün güncellenir, `data/state.json` hangi ilanı bildirdiğini hatırlar (aynı ilan iki kez bildirilmez).
 
 ## Web sayfası (GitHub Pages)
-Her taramada `docs/index.html` yeniden üretilir: telefonda rahat okunan, aranabilir ve filtrelenebilir (Uygun / Kontrol et / Öncelikli il) bir ilan listesi. Açmak için bir kez: repo **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `/docs` → Save**. Adres: `https://<kullanıcı>.github.io/memur-ilan-takip/`. Sayfada kişisel profil bilgisi (puan, doğum yılı) yer almaz.
+Her taramada `index.html` yeniden üretilir: telefonda rahat okunan, aranabilir ve filtrelenebilir (Uygun / Kontrol et / Öncelikli il) bir ilan listesi. Açmak için bir kez: repo **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `(root)` → Save**. Adres: `https://<kullanıcı>.github.io/memur-ilan-takip/`. Sayfada kişisel profil bilgisi (puan, doğum yılı) yer almaz.
 
 ## Bildirim (hepsi bedava)
 - **GitHub Issue** (varsayılan, kurulum gerekmez): yeni ilan olunca bir Issue açılır. Sana e-posta gelir; GitHub mobil uygulamasını kurarsan telefona push da gelir. Repo'da *Watch → All activity* açık olsun.

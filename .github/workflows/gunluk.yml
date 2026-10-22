@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "ilan-takip-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -A data docs ACIK_ILANLAR.md
+          git add -A data index.html ACIK_ILANLAR.md
           git diff --cached --quiet || git commit -m "Günlük tarama $(date -u +%F)"
           git pull --rebase -q || true
           git push

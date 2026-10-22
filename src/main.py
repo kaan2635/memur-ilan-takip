@@ -118,8 +118,8 @@ def main():
     (DATA / "state.json").write_text(json.dumps(state, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     (DATA / "acik_ilanlar.json").write_text(json.dumps(rapor.sirala(acik), ensure_ascii=False, indent=1, default=str), encoding="utf-8")
     (ROOT / "ACIK_ILANLAR.md").write_text(rapor.markdown(acik, bugun), encoding="utf-8")
-    (ROOT / "docs").mkdir(exist_ok=True)   # GitHub Pages kaynağı
-    (ROOT / "docs" / "index.html").write_text(sayfa.uret(rapor.sirala(acik), bugun), encoding="utf-8")
+    # GitHub Pages (Source: main / root) bu dosyayı README yerine site olarak sunar
+    (ROOT / "index.html").write_text(sayfa.uret(rapor.sirala(acik), bugun), encoding="utf-8")
 
     # Bildirim metinleri (workflow bunları issue olarak açar)
     out = ROOT / "bildirim.md"
