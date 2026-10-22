@@ -1,12 +1,12 @@
 # Aday profili — eşleştirme bu dosyaya göre yapılır. Düzenleyip commit'le.
-ad: Kaan
+ad: Hande
 ogrenim: lisans
 bolum: Elektrik-Elektronik Mühendisliği
 kpss_yili: 2026            # 2026 KPSS sonucun; "2024" yazan ilanlar elenir
 puan_turleri: [P3]         # sahip olduğun KPSS puan türleri (A grubu varsa ekle: P17, P18, P22, P23, P47, P48 ...)
-p3_puani: null             # örn. 78.5 yazarsan ilandaki asgari puanın altındakiler elenir
-dogum_yili: null           # örn. 1998 -> yaş sınırı aşılan ilanlar elenir
-cinsiyet: null             # "erkek" | "kadin" | null  ("erkek" sadece kadın ilanlarını eler)
+p3_puani: 72             # örn. 78.5 yazarsan ilandaki asgari puanın altındakiler elenir
+dogum_yili: 1996           # örn. 1998 -> yaş sınırı aşılan ilanlar elenir
+cinsiyet: kadin             # "erkek" | "kadin" | null  ("erkek" sadece kadın ilanlarını eler)
 yds_var: false             # YDS/e-YDS puanın varsa true
 deneyim_yili: 0            # sahip olduğun deneyim; fazlasını isteyen ilanlar "dikkat" olarak işaretlenir
 deneyim_gerekiyorsa_gizle: false   # true: deneyim isteyen ilanları hiç gösterme
