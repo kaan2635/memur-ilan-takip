@@ -1,16 +1,6 @@
 # Açık ilanlar — 22.10.2026
 
-Profil: E-E lisans · KPSS 2026. Toplam **35** uygun/kontrol edilecek ilan.
-
-✅ Uygun  **Didim Belediye Başkanlığı 18 Zabıta Memuru Alımı**
-   Son başvuru: 23.10.2026 17:00 (1 gün kaldı)
-   Unvanlar: Zabıta, Zabıta ilanları, Aydın ilanları, Yazılı ve Uygulamalı Sınav iş ilanları
-   Yer: Aydın · Kadrolu memur · herhangi bir lisans / bölüm kısıtı yok
-   • asgari puan: P3≥70
-   • yaş sınırı: 30
-   • belge/sertifika: sürücü belgesi
-   Başvuru: Başvuru tarihleri Nasıl başvurulur?
-   https://www.memurjet.com/is-ilanlari/didim-belediye-baskanligi-18-zabita-memuru-alimi
+Profil: E-E lisans · KPSS 2026. Toplam **32** uygun/kontrol edilecek ilan.
 
 ✅ Uygun  **İETT 44 Memur Alımı**
    Son başvuru: 02.11.2026 (11 gün kaldı) · başvuru 26.10'de açılıyor
@@ -20,15 +10,6 @@ Profil: E-E lisans · KPSS 2026. Toplam **35** uygun/kontrol edilecek ilan.
    • belge/sertifika: sertifika
    Başvuru: Elektronik ortamda e-Devlet'ten başvur
    https://www.memurjet.com/is-ilanlari/iett-44-memur-alimi
-
-✅ Uygun  **Şile Belediye Başkanlığı 6 Memur Alımı**
-   Son başvuru: 13.11.2026 17:00 (22 gün kaldı) · başvuru 09.11'de açılıyor
-   Unvanlar: Zabıta, Tekniker, İstanbul, Zabıta ilanları
-   Yer: İstanbul · Kadrolu memur · herhangi bir lisans / bölüm kısıtı yok
-   • asgari puan: P93≥65
-   • yaş sınırı: 30
-   Başvuru: Başvuru tarihleri Nasıl başvurulur?
-   https://www.memurjet.com/is-ilanlari/sile-belediye-baskanligi-6-memur-alimi
 
 ✅ Uygun  **Keşan Belediye Başkanlığı 2 Memur Alımı**
    Son başvuru: 19.11.2026 17:30 (28 gün kaldı) · başvuru 16.11'de açılıyor
@@ -59,17 +40,6 @@ Profil: E-E lisans · KPSS 2026. Toplam **35** uygun/kontrol edilecek ilan.
    • belge/sertifika: sertifika, SGK dökümü
    Başvuru: e-Devlet Kapısı üzerinden Türk Patent ve Marka Kurumu–Kariyer Kapısı Kamu İşe Alım hizmeti veya https://kariyerkapisi.gov.tr/isealim adresine elektronik ortamda başvuru Ek Bilgi
    https://www.memurjet.com/is-ilanlari/turk-patent-ve-marka-1-kidemli-yazilim-mimari-alimi
-
-⚠️ Kontrol et  **Pursaklar Belediye Başkanlığı 9 Zabıta Memuru Alımı**
-   Son başvuru: 23.10.2026 (1 gün kaldı)
-   Unvanlar: Zabıta, Zabıta ilanları, Ankara ilanları, Lisans Mezunu iş ilanları
-   Yer: Ankara · Kadrolu memur · lisans düzeyi
-   • öğrenim satırı ayrıştırılamadı, ilan metnini kontrol et
-   • asgari puan: P3≥65
-   • yaş sınırı: 30
-   • belge/sertifika: sürücü belgesi
-   Başvuru: Başvuru tarihleri Nasıl başvurulur?
-   https://www.memurjet.com/is-ilanlari/pursaklar-belediye-baskanligi-9-zabita-memuru-alimi
 
 ⚠️ Kontrol et  **Yargıtay Bşk. 4 Sözleşmeli Bilişim Personeli Alımı**
    Son başvuru: 23.10.2026 17:30 (1 gün kaldı)

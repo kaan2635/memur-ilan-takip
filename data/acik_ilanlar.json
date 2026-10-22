@@ -1,66 +1,5 @@
 [
  {
-  "url": "https://www.memurjet.com/is-ilanlari/didim-belediye-baskanligi-18-zabita-memuru-alimi",
-  "baslik": "Didim Belediye Başkanlığı 18 Zabıta Memuru Alımı",
-  "unvanlar": [
-   "Zabıta",
-   "Zabıta ilanları",
-   "Aydın ilanları",
-   "Yazılı ve Uygulamalı Sınav iş ilanları",
-   "KPSS ile Personel Alımı iş ilanları",
-   "Yerel Yönetim iş ilanları",
-   "Güvenlik Soruşturması iş ilanları",
-   "İstanbul İş İlanları",
-   "Ankara İş İlanları",
-   "İzmir İş İlanları",
-   "Bursa İş İlanları",
-   "Antalya İş İlanları",
-   "Adana İş İlanları",
-   "Konya İş İlanları",
-   "Gaziantep İş İlanları",
-   "Kocaeli İş İlanları",
-   "Mersin İş İlanları"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-BEL2-didim-belediye-baskanligi-18-memur-alacak-20261019",
-  "son_basvuru": "2026-10-23",
-  "baslangic": "2026-10-19",
-  "son_saat": "17:00",
-  "istihdam": "Kadrolu memur",
-  "yer": "Aydın",
-  "kadro": 18,
-  "ogrenim": [
-   "Lisans · Herhangi bir lisans programı"
-  ],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 70.0
-  },
-  "kpss_yillari": [
-   2026
-  ],
-  "kpss_var": true,
-  "deneyim_yillari": [],
-  "yas_siniri": 30,
-  "yds": false,
-  "belgeler": [
-   "sürücü belgesi"
-  ],
-  "cinsiyet_siniri": null,
-  "basvuru_yolu": "Başvuru tarihleri Nasıl başvurulur?",
-  "degerlendirme": {
-   "sonuc": "KESIN",
-   "neden": "herhangi bir lisans / bölüm kısıtı yok",
-   "uyarilar": [
-    "asgari puan: P3≥70",
-    "yaş sınırı: 30",
-    "belge/sertifika: sürücü belgesi"
-   ],
-   "oncelikli": false
-  }
- },
- {
   "url": "https://www.memurjet.com/is-ilanlari/iett-44-memur-alimi",
   "baslik": "İETT 44 Memur Alımı",
   "unvanlar": [
@@ -124,67 +63,6 @@
    "uyarilar": [
     "asgari puan: P3≥70",
     "belge/sertifika: sertifika"
-   ],
-   "oncelikli": false
-  }
- },
- {
-  "url": "https://www.memurjet.com/is-ilanlari/sile-belediye-baskanligi-6-memur-alimi",
-  "baslik": "Şile Belediye Başkanlığı 6 Memur Alımı",
-  "unvanlar": [
-   "Zabıta",
-   "Tekniker",
-   "İstanbul",
-   "Zabıta ilanları",
-   "Tekniker ilanları",
-   "İstanbul ilanları",
-   "İlk Defa Atama iş ilanları",
-   "KPSS ile Personel Alımı iş ilanları",
-   "Sözlü Sınav iş ilanları",
-   "Kadrolu iş ilanları",
-   "Yerel Yönetim iş ilanları",
-   "İstanbul İş İlanları",
-   "Ankara İş İlanları",
-   "İzmir İş İlanları",
-   "Bursa İş İlanları",
-   "Antalya İş İlanları",
-   "Adana İş İlanları",
-   "Konya İş İlanları",
-   "Gaziantep İş İlanları",
-   "Kocaeli İş İlanları",
-   "Mersin İş İlanları"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-BEL2-sile-belediye-baskanligi-6-memur-alacak-20261109",
-  "son_basvuru": "2026-11-13",
-  "baslangic": "2026-11-09",
-  "son_saat": "17:00",
-  "istihdam": "Kadrolu memur",
-  "yer": "İstanbul",
-  "kadro": 6,
-  "ogrenim": [
-   "Lisans · Herhangi bir lisans programı"
-  ],
-  "kpss_turleri": [
-   3,
-   93
-  ],
-  "kpss_asgari": {
-   "93": 65.0
-  },
-  "kpss_yillari": [],
-  "kpss_var": true,
-  "deneyim_yillari": [],
-  "yas_siniri": 30,
-  "yds": false,
-  "belgeler": [],
-  "cinsiyet_siniri": null,
-  "basvuru_yolu": "Başvuru tarihleri Nasıl başvurulur?",
-  "degerlendirme": {
-   "sonuc": "KESIN",
-   "neden": "herhangi bir lisans / bölüm kısıtı yok",
-   "uyarilar": [
-    "asgari puan: P93≥65",
-    "yaş sınırı: 30"
    ],
    "oncelikli": false
   }
@@ -390,64 +268,6 @@
     "deneyim isteniyor: 5 yıl",
     "YDS/yabancı dil belgesi geçiyor",
     "belge/sertifika: sertifika, SGK dökümü"
-   ],
-   "oncelikli": false
-  }
- },
- {
-  "url": "https://www.memurjet.com/is-ilanlari/pursaklar-belediye-baskanligi-9-zabita-memuru-alimi",
-  "baslik": "Pursaklar Belediye Başkanlığı 9 Zabıta Memuru Alımı",
-  "unvanlar": [
-   "Zabıta",
-   "Zabıta ilanları",
-   "Ankara ilanları",
-   "Lisans Mezunu iş ilanları",
-   "KPSS ile Personel Alımı iş ilanları",
-   "Yerel Yönetim iş ilanları",
-   "Yazılı ve Sözlü Sınav iş ilanları",
-   "İstanbul İş İlanları",
-   "Ankara İş İlanları",
-   "İzmir İş İlanları",
-   "Bursa İş İlanları",
-   "Antalya İş İlanları",
-   "Adana İş İlanları",
-   "Konya İş İlanları",
-   "Gaziantep İş İlanları",
-   "Kocaeli İş İlanları",
-   "Mersin İş İlanları"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-BEL2-pursaklar-belediye-baskanligi-9-memur-alacak-20261019",
-  "son_basvuru": "2026-10-23",
-  "baslangic": "2026-10-19",
-  "son_saat": null,
-  "istihdam": "Kadrolu memur",
-  "yer": "Ankara",
-  "kadro": 9,
-  "ogrenim": [],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 65.0
-  },
-  "kpss_yillari": [],
-  "kpss_var": true,
-  "deneyim_yillari": [],
-  "yas_siniri": 30,
-  "yds": false,
-  "belgeler": [
-   "sürücü belgesi"
-  ],
-  "cinsiyet_siniri": null,
-  "basvuru_yolu": "Başvuru tarihleri Nasıl başvurulur?",
-  "degerlendirme": {
-   "sonuc": "DIKKAT",
-   "neden": "lisans düzeyi",
-   "uyarilar": [
-    "öğrenim satırı ayrıştırılamadı, ilan metnini kontrol et",
-    "asgari puan: P3≥65",
-    "yaş sınırı: 30",
-    "belge/sertifika: sürücü belgesi"
    ],
    "oncelikli": false
   }

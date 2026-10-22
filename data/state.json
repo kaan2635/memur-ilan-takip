@@ -1173,7 +1173,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-23",
-  "sonuc": "KESIN"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/disisleri-bakanligi-120-aday-meslek-memuru-alim-ilani": {
   "baslik": "Dışişleri Bakanlığı 120 Aday Meslek Memuru Alım İlanı",
@@ -2359,6 +2359,14 @@
   "son_basvuru": "2026-09-25",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/kastamonu-universitesi-5-akademik-personel-alim-ilani": {
+  "baslik": "Kastamonu Üniversitesi 5 Akademik Personel Alım İlanı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-22",
+  "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-2-ogretim-elemani-alim-ilani": {
   "baslik": "Kayseri Üniversitesi 2 Öğretim Elemanı Alım İlanı",
   "bildirilen": false,
@@ -3293,7 +3301,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-23",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/recep-tayyip-erdogan-uni-1-ogretim-gorevlisi-alim-ilani": {
   "baslik": "Recep Tayyip Erdoğan Üni. 1 Öğretim Görevlisi Alım İlanı",
@@ -3629,7 +3637,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-13",
-  "sonuc": "KESIN"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/sile-belediye-baskanligi-8-zabita-memuru-alimi": {
   "baslik": "Şile Belediye Başkanlığı 8 Zabıta Memuru Alımı",
