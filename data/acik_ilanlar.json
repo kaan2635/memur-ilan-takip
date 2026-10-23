@@ -97,125 +97,6 @@
   }
  },
  {
-  "url": "https://www.memurjet.com/is-ilanlari/milli-saraylar-idaresi-158-sozlesmeli-personel-alimi",
-  "baslik": "Millî Saraylar İdaresi 158 Sözleşmeli Personel Alımı",
-  "unvanlar": [
-   "Büro Personeli",
-   "Müze Görevlisi",
-   "İnşaat Mühendisi",
-   "Restoratör",
-   "Çözümleyici",
-   "Diğer Teknik Hizmet Personeli",
-   "Destek Personeli",
-   "Koruma ve Güvenlik Görevlisi",
-   "Tekniker (El Dekoru ve Seramik Üretimi)",
-   "İstanbul"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-369-milli-saraylar-idaresi-baskanligi-158-sozlesmeli-personel-alacak-20261012",
-  "meta": "4/B Sözleşmeli · Sözlü sınav + Uygulamalı sınav · e-Devlet / Kariyer Kapısı",
-  "son_basvuru": "2026-10-22",
-  "baslangic": "2026-10-12",
-  "son_saat": null,
-  "istihdam": "4/B Sözleşmeli",
-  "sinav": "Sözlü sınav + Uygulamalı sınav",
-  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
-  "yer": "Edirne, İstanbul",
-  "kadro": 158,
-  "ogrenim": [
-   "Lisans · İşletme, Yönetim Bilimleri, İktisat, Maliye, Çalışma Ekonomisi ve Endüstri İlişkileri, Kamu Yönetimi, Siyaset Bilimi, Siyaset Bilimi ve Kamu Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler (Büro Personeli için)",
-   "Lisans · Müzecilik, Sanat Tarihi, Tarih, Türk Halkbilimi, Arkeoloji, Klasik Arkeoloji, Arkeoloji ve Sanat Tarihi, Türk İslam Arkeolojisi, İletişim Bilimleri, Halkla İlişkiler ve Tanıtım, Halkla İlişkiler ve Reklamcılık, Gazetecilik ile Radyo, Televizyon ve Sinema (Müze Görevlisi için)",
-   "Lisans · İnşaat Mühendisliği (Mühendis İnşaat için)",
-   "Lisans · Kültür Varlıklarını Koruma ve Onarım, Restorasyon ve Konservasyon, Rölöve-Restorasyon, Taşınabilir Kültür Varlıklarını Koruma ve Onarım, Sanat Eserleri Konservasyonu ve Restorasyonu veya lisansüstü (Restoratör Kalemkâr için)",
-   "Lisans · Bilgisayar Mühendisliği, Bilgisayar Bilimi ve Mühendisliği, Bilgisayar Bilimleri ve Mühendisliği, Bilişim Sistemleri Mühendisliği, Yazılım Mühendisliği, Bilgisayar ve Yazılım Mühendisliği, Yazılım Geliştirme, Bilgisayar Bilimleri, Bilişim Sistemleri ve Teknolojileri, Ağ, Bilgisayar Teknolojisi ve Bilişim Sistemleri, Bilgisayar ve Enformasyon Sistemleri, Bilgisayar ve Enformatik, Sistem Yönetimi, Veri Tabanı Uygulama, Web Tasarım (Çözümleyici için)",
-   "Lisans · Geleneksel Türk Sanatları, Geleneksel Sanatlar, Geleneksel Türk El Sanatları, Geleneksel El Sanatları, Resim, Seramik, Seramik Sanatları, Seramik Tasarımı, Seramik ve Cam, Seramik ve Cam Tasarımı, Seramik-Cam, Bileşik Sanatlar, El Sanatları, El Sanatları Tasarımı ve Üretimi (Diğer Teknik Hizmet Personeli El Dekoru ve Seramik Üretimi için)",
-   "Ön lisans · Geleneksel El Sanatları, Seramik, Çini İşlemeciliği, Seramik ve Cam, Seramik, Cam ve Çinicilik, Geleneksel Türk El Sanatları, El Sanatları, Seramik-Cam (Tekniker El Dekoru ve Seramik Üretimi için)",
-   "Lisans · Herhangi bir lisans bölümü (Koruma ve Güvenlik Görevlisi için)",
-   "Lise · Herhangi bir lise ve dengi okul (Destek Personeli Temizlik Görevlisi için)"
-  ],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 60.0
-  },
-  "kpss_yillari": [],
-  "kpss_var": true,
-  "deneyim_yillari": [],
-  "yas_siniri": 35,
-  "yds": true,
-  "belgeler": [
-   "silahlı güvenlik belgesi",
-   "sertifika"
-  ],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "DIKKAT",
-   "neden": "herhangi bir lisans / bölüm kısıtı yok",
-   "uyarilar": [
-    "asgari puan: P3≥60",
-    "yaş sınırı: 35",
-    "YDS/yabancı dil belgesi geçiyor",
-    "belge/sertifika: silahlı güvenlik belgesi, sertifika"
-   ],
-   "oncelikli": false
-  }
- },
- {
-  "url": "https://www.memurjet.com/is-ilanlari/turk-patent-ve-marka-1-kidemli-yazilim-mimari-alimi",
-  "baslik": "Türk Patent ve Marka 1 Kıdemli Yazılım Mimarı Alımı",
-  "unvanlar": [
-   "Kıdemli Yazılım Geliştirme Mimarı"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-300-turk-patent-ve-marka-kurumu-sozlesmeli-bilisim-personeli-sinav-alim-ilani-20261007",
-  "meta": "4/B Sözleşmeli · Sözlü sınav + Uygulamalı sınav · e-Devlet / Kariyer Kapısı",
-  "son_basvuru": "2026-10-22",
-  "baslangic": "2026-10-07",
-  "son_saat": "23:59",
-  "istihdam": "4/B Sözleşmeli",
-  "sinav": "Sözlü sınav + Uygulamalı sınav",
-  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
-  "yer": "Ankara",
-  "kadro": 1,
-  "ogrenim": [
-   "Lisans · Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği"
-  ],
-  "kpss_turleri": [
-   1,
-   2,
-   3
-  ],
-  "kpss_asgari": {
-   "1": 70.0,
-   "2": 70.0,
-   "3": 70.0
-  },
-  "kpss_yillari": [],
-  "kpss_var": true,
-  "deneyim_yillari": [
-   5
-  ],
-  "yas_siniri": null,
-  "yds": true,
-  "belgeler": [
-   "sertifika",
-   "SGK dökümü"
-  ],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "DIKKAT",
-   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
-   "uyarilar": [
-    "asgari puan: P1≥70, P2≥70, P3≥70",
-    "deneyim isteniyor: 5 yıl",
-    "YDS/yabancı dil belgesi geçiyor",
-    "belge/sertifika: sertifika, SGK dökümü"
-   ],
-   "oncelikli": false
-  }
- },
- {
   "url": "https://www.memurjet.com/is-ilanlari/yargitay-bsk-4-sozlesmeli-bilisim-personeli-alimi",
   "baslik": "Yargıtay Bşk. 4 Sözleşmeli Bilişim Personeli Alımı",
   "unvanlar": [
@@ -751,6 +632,174 @@
    "uyarilar": [
     "asgari puan: P3≥70",
     "deneyim isteniyor: 3–5 yıl (bazı unvanlarda)",
+    "YDS/yabancı dil belgesi geçiyor",
+    "belge/sertifika: sertifika, SGK dökümü"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
+  "url": "https://www.memurjet.com/is-ilanlari/cumhurbaskanligi-sbb-7-sozlesmeli-bilisim-personeli-alimi",
+  "baslik": "Cumhurbaşkanlığı SBB 7 Sözleşmeli Bilişim Personeli Alımı",
+  "unvanlar": [
+   "Yazılım Geliştirme Uzmanı",
+   "Kıdemli Yazılım Uzmanı",
+   "Kıdemli Sistem Uzmanı"
+  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-212-strateji-ve-butce-baskanligi-7-sozlesmeli-bilisim-personeli-alacak-20261022",
+  "meta": "4/B Sözleşmeli · Dosya değerlendirme + Sözlü sınav + Uygulamalı sınav · Online",
+  "son_basvuru": "2026-11-05",
+  "baslangic": "2026-10-22",
+  "son_saat": "18:00",
+  "istihdam": "4/B Sözleşmeli",
+  "sinav": "Dosya değerlendirme + Sözlü sınav + Uygulamalı sınav",
+  "basvuru_yolu": "Online",
+  "yer": "Ankara",
+  "kadro": 7,
+  "ogrenim": [
+   "Lisans · Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği, Endüstri Mühendisliği veya diğer fen, mühendislik, eğitim bilimleri, bilgisayar/teknoloji bölümleri"
+  ],
+  "kpss_turleri": [
+   3
+  ],
+  "kpss_asgari": {
+   "3": 70.0
+  },
+  "kpss_yillari": [],
+  "kpss_var": true,
+  "deneyim_yillari": [
+   3,
+   4,
+   5
+  ],
+  "yas_siniri": null,
+  "yds": true,
+  "belgeler": [
+   "SGK dökümü"
+  ],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
+   "uyarilar": [
+    "asgari puan: P3≥70",
+    "deneyim isteniyor: 3–5 yıl (bazı unvanlarda)",
+    "YDS/yabancı dil belgesi geçiyor",
+    "belge/sertifika: SGK dökümü"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
+  "url": "https://www.memurjet.com/is-ilanlari/galatasaray-uni-1-yazilim-gelistirme-uzmani-alimi",
+  "baslik": "Galatasaray Üni. 1 Yazılım Geliştirme Uzmanı Alımı",
+  "unvanlar": [
+   "Yazılım Geliştirme Uzmanı",
+   "İstanbul"
+  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-585-galatasaray-universitesi-1-sozlesmeli-bilisim-personeli-alacak-20261022",
+  "meta": "4/B Sözleşmeli · Dosya değerlendirme + Yazılı sınav + Sözlü sınav · e-Devlet / Kariyer Kapısı",
+  "son_basvuru": "2026-11-06",
+  "baslangic": "2026-10-22",
+  "son_saat": null,
+  "istihdam": "4/B Sözleşmeli",
+  "sinav": "Dosya değerlendirme + Yazılı sınav + Sözlü sınav",
+  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
+  "yer": "İstanbul",
+  "kadro": 1,
+  "ogrenim": [
+   "Lisans · Bilgisayar Mühendisliği, Sistem Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Yazılım Mühendisliği, Endüstri Mühendisliği veya denklik kabul edilen bölümler; ya da diğer mühendislik bölümleri, Fen-Edebiyat, Eğitim ve Eğitim Bilimleri Fakülteleri'nin Bilgisayar ve Teknoloji üzerine eğitim veren bölümleri ile İstatistik, Matematik ve Fizik bölümleri"
+  ],
+  "kpss_turleri": [
+   3
+  ],
+  "kpss_asgari": {
+   "3": 70.0
+  },
+  "kpss_yillari": [
+   2026
+  ],
+  "kpss_var": true,
+  "deneyim_yillari": [
+   3,
+   5
+  ],
+  "yas_siniri": null,
+  "yds": true,
+  "belgeler": [
+   "sertifika",
+   "SGK dökümü"
+  ],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
+   "uyarilar": [
+    "asgari puan: P3≥70",
+    "deneyim isteniyor: 3–5 yıl (bazı unvanlarda)",
+    "YDS/yabancı dil belgesi geçiyor",
+    "belge/sertifika: sertifika, SGK dökümü"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
+  "url": "https://www.memurjet.com/is-ilanlari/tarim-ve-orman-13-sozlesmeli-bilisim-personeli-alimi",
+  "baslik": "Tarım ve Orman 13 Sözleşmeli Bilişim Personeli Alımı",
+  "unvanlar": [
+   "Ağ Uzmanı",
+   "Kıdemli Yazılım Uzmanı",
+   "Yazılım Geliştirme Uzmanı",
+   "Sistem Uzmanı",
+   "Risk ve Uyum Uzmanı",
+   "Kıdemli Siber Güvenlik Uzmanı"
+  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-32-tarim-ve-orman-bakanligi-13-sozlesmeli-bilisim-personeli-alacak-20261022",
+  "meta": "4/B Sözleşmeli · Sözlü sınav + Uygulamalı sınav · e-Devlet / Kariyer Kapısı",
+  "son_basvuru": "2026-11-06",
+  "baslangic": "2026-10-22",
+  "son_saat": null,
+  "istihdam": "4/B Sözleşmeli",
+  "sinav": "Sözlü sınav + Uygulamalı sınav",
+  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
+  "yer": "Ankara",
+  "kadro": 13,
+  "ogrenim": [
+   "Lisans · Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği, Endüstri Mühendisliği veya denkliği kabul görmüş yurt dışı kurumlar; veya diğer mühendislik, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin bilgisayar ve teknoloji, istatistik, matematik ve fizik bölümleri"
+  ],
+  "kpss_turleri": [
+   3
+  ],
+  "kpss_asgari": {
+   "3": 70.0
+  },
+  "kpss_yillari": [
+   2025,
+   2026
+  ],
+  "kpss_var": true,
+  "deneyim_yillari": [
+   3,
+   4,
+   5,
+   10
+  ],
+  "yas_siniri": null,
+  "yds": true,
+  "belgeler": [
+   "sertifika",
+   "SGK dökümü"
+  ],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
+   "uyarilar": [
+    "asgari puan: P3≥70",
+    "deneyim isteniyor: 3–10 yıl (bazı unvanlarda)",
     "YDS/yabancı dil belgesi geçiyor",
     "belge/sertifika: sertifika, SGK dökümü"
    ],
