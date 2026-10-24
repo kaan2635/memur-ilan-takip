@@ -1234,7 +1234,7 @@
  "https://www.memurjet.com/is-ilanlari/dogu-marmara-kalkinma-ajansi-5-personel-alim-ilani": {
   "baslik": "Doğu Marmara Kalkınma Ajansı 5 Personel Alım İlanı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-27",
   "sonuc": "DIKKAT"
@@ -2255,6 +2255,14 @@
   "son_basvuru": "2026-09-22",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/kahramanmaras-sutcu-imam-uni-4-ogretim-elemani-alimi": {
+  "baslik": "Kahramanmaraş Sütçü İmam Üni. 4 Öğretim Elemanı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-24",
+  "son_basvuru": "2026-11-06",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/kamu-gozetimi-muhasebe-13-uzman-yardimcisi-alimi": {
   "baslik": "Kamu Gözetimi, Muhasebe 13 Uzman Yardımcısı Alımı",
   "bildirilen": false,
@@ -2823,6 +2831,14 @@
   "son_basvuru": "2026-08-25",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/kultur-ve-turizm-bakanligi-162-kutuphaneci-alimi": {
+  "baslik": "Kültür ve Turizm Bakanlığı 162 Kütüphaneci Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-24",
+  "son_basvuru": "2026-11-16",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/kultur-ve-turizm-bakanligi-502-sozlesmeli-memur-alim-ilani": {
   "baslik": "Kültür ve Turizm Bakanlığı 502 Sözleşmeli Memur Alım İlanı",
   "bildirilen": false,
@@ -2965,6 +2981,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-22",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/marmara-universitesi-63-sozlesmeli-personel-alimi": {
+  "baslik": "Marmara Üniversitesi 63 Sözleşmeli Personel Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-24",
+  "son_basvuru": "2026-11-06",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/marmara-universitesi-7-ogretim-elemani-alimi": {
@@ -3269,6 +3293,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-09-07",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/orman-genel-mudurlugu-12-mufettis-yardimcisi-alimi": {
+  "baslik": "Orman Genel Müdürlüğü 12 Müfettiş Yardımcısı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-24",
+  "son_basvuru": "2026-11-09",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/orta-anadolu-kalkinma-ajansi-7-personel-alimi": {
@@ -4525,7 +4557,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-23",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/yildiz-teknik-uni-28-ogretim-elemani-alimi": {
   "baslik": "Yıldız Teknik Üni. 28 Öğretim Elemanı Alımı",

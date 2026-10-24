@@ -97,58 +97,6 @@
   }
  },
  {
-  "url": "https://www.memurjet.com/is-ilanlari/yargitay-bsk-4-sozlesmeli-bilisim-personeli-alimi",
-  "baslik": "Yargıtay Bşk. 4 Sözleşmeli Bilişim Personeli Alımı",
-  "unvanlar": [
-   "Mobil Uygulama Geliştirme Uzmanı",
-   "Kıdemli Siber Güvenlik Uzmanı"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-165-yargitay-baskanligi-4-sozlesmeli-bilisim-personeli-alacak-20261019",
-  "meta": "4/B Sözleşmeli · KPSS + Sözlü sınav · e-Devlet / Kariyer Kapısı",
-  "son_basvuru": "2026-10-23",
-  "baslangic": "2026-10-19",
-  "son_saat": "17:30",
-  "istihdam": "4/B Sözleşmeli",
-  "sinav": "KPSS + Sözlü sınav",
-  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
-  "yer": "Ankara",
-  "kadro": 4,
-  "ogrenim": [
-   "Lisans · Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği, Endüstri Mühendisliği veya ilgili mühendislik/fen-edebiyat/eğitim/istatistik/matematik/fizik bölümleri"
-  ],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 70.0
-  },
-  "kpss_yillari": [],
-  "kpss_var": true,
-  "deneyim_yillari": [
-   3,
-   5
-  ],
-  "yas_siniri": null,
-  "yds": true,
-  "belgeler": [
-   "sertifika",
-   "SGK dökümü"
-  ],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "DIKKAT",
-   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
-   "uyarilar": [
-    "asgari puan: P3≥70",
-    "deneyim isteniyor: 3–5 yıl (bazı unvanlarda)",
-    "YDS/yabancı dil belgesi geçiyor",
-    "belge/sertifika: sertifika, SGK dökümü"
-   ],
-   "oncelikli": false
-  }
- },
- {
   "url": "https://www.memurjet.com/is-ilanlari/turk-standardlari-17-sozlesmeli-bilisim-personeli-alimi",
   "baslik": "Türk Standardları Enstitüsü 17 Sözleşmeli Bilişim Personeli Alımı",
   "unvanlar": [
