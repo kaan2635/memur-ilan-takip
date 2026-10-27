@@ -97,66 +97,6 @@
   }
  },
  {
-  "url": "https://www.memurjet.com/is-ilanlari/turk-standardlari-17-sozlesmeli-bilisim-personeli-alimi",
-  "baslik": "Türk Standardları Enstitüsü 17 Sözleşmeli Bilişim Personeli Alımı",
-  "unvanlar": [
-   "Kıdemli Sistem Uzmanı",
-   "Veri Tabanı Uzmanı",
-   ".NET Yazılım Uzmanı",
-   "Java Yazılım Uzmanı",
-   "Sistem Uzmanı",
-   "Ağ ve Siber Güvenlik Uzmanı"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-813-turk-standartlari-enstitusu-17-sozlesmeli-bilisim-personeli-alacak-20261015",
-  "meta": "4/B Sözleşmeli · KPSS + Sözlü sınav + Uygulamalı sınav + Yazılı sınav · e-Devlet / Kariyer Kapısı",
-  "son_basvuru": "2026-10-26",
-  "baslangic": "2026-10-15",
-  "son_saat": "02:59",
-  "istihdam": "4/B Sözleşmeli",
-  "sinav": "KPSS + Sözlü sınav + Uygulamalı sınav + Yazılı sınav",
-  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
-  "yer": "Ankara",
-  "kadro": 17,
-  "ogrenim": [
-   "Lisans · Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği, Endüstri Mühendisliği veya denkliği kabul edilen alanlarda"
-  ],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 70.0
-  },
-  "kpss_yillari": [
-   2026
-  ],
-  "kpss_var": true,
-  "deneyim_yillari": [
-   3,
-   4,
-   5,
-   8
-  ],
-  "yas_siniri": null,
-  "yds": true,
-  "belgeler": [
-   "sertifika",
-   "SGK dökümü"
-  ],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "DIKKAT",
-   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
-   "uyarilar": [
-    "asgari puan: P3≥70",
-    "deneyim isteniyor: 3–8 yıl (bazı unvanlarda)",
-    "YDS/yabancı dil belgesi geçiyor",
-    "belge/sertifika: sertifika, SGK dökümü"
-   ],
-   "oncelikli": false
-  }
- },
- {
   "url": "https://www.memurjet.com/is-ilanlari/dogu-marmara-kalkinma-ajansi-5-personel-alim-ilani",
   "baslik": "Doğu Marmara Kalkınma Ajansı 5 Personel Alım İlanı",
   "unvanlar": [
@@ -232,12 +172,12 @@
    ".NET Yazılım Uzmanı"
   ],
   "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-175-sayistay-baskanligi-2-adet-sozlesmeli-bilisim-personeli-alacak-20261019",
-  "meta": "4/B Sözleşmeli · KPSS + Sözlü sınav · Şahsen / Posta",
+  "meta": "4/B Sözleşmeli · Sözlü sınav · Şahsen / Posta",
   "son_basvuru": "2026-10-30",
   "baslangic": "2026-10-19",
   "son_saat": "17:30",
   "istihdam": "4/B Sözleşmeli",
-  "sinav": "KPSS + Sözlü sınav",
+  "sinav": "Sözlü sınav",
   "basvuru_yolu": "Şahsen / Posta",
   "yer": "Ankara",
   "kadro": 2,
@@ -948,12 +888,12 @@
    "Destek Personeli"
   ],
   "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-A1038-orta-anadolu-kalkinma-ajansi-6-uzman-1-destek-personeli-alacak-20261109",
-  "meta": "Sürekli işçi · Dosya değerlendirme + Sözlü sınav · e-Devlet / Kariyer Kapısı",
+  "meta": "Sürekli işçi · Sözlü sınav + Dosya değerlendirme · e-Devlet / Kariyer Kapısı",
   "son_basvuru": "2026-12-03",
   "baslangic": "2026-11-09",
   "son_saat": "23:59",
   "istihdam": "Sürekli işçi",
-  "sinav": "Dosya değerlendirme + Sözlü sınav",
+  "sinav": "Sözlü sınav + Dosya değerlendirme",
   "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
   "yer": "Kayseri, Sivas, Yozgat",
   "kadro": 7,

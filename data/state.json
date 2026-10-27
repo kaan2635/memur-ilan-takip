@@ -1687,6 +1687,14 @@
   "son_basvuru": "2026-09-07",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/giresun-universitesi-23-ogretim-uyesi-alimi": {
+  "baslik": "Giresun Üniversitesi 23 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-27",
+  "son_basvuru": "2026-11-13",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/giresun-universitesi-4-ogretim-gorevlisi-alim-ilani": {
   "baslik": "Giresun Üniversitesi 4 Öğretim Görevlisi Alım İlanı",
   "bildirilen": false,
@@ -1821,6 +1829,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": null,
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/harran-universitesi-52-ogretim-uyesi-alimi": {
+  "baslik": "Harran Üniversitesi 52 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-27",
+  "son_basvuru": "2026-11-10",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/hatay-mustafa-kemal-uni-2-sozlesmeli-bilisim-alim-ilani": {
@@ -3207,6 +3223,14 @@
   "son_basvuru": "2026-09-14",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/mus-alparslan-universitesi-49-ogretim-uyesi-alimi": {
+  "baslik": "Muş Alparslan Üniversitesi 49 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-27",
+  "son_basvuru": "2026-11-10",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/necmettin-erbakan-uni-7-arastirma-gorevlisi-alim-ilani": {
   "baslik": "Necmettin Erbakan Üni. 7 Araştırma Görevlisi Alım İlanı",
   "bildirilen": false,
@@ -3706,7 +3730,7 @@
  "https://www.memurjet.com/is-ilanlari/sayistay-bsk-2-sozlesmeli-bilisim-personeli-alimi": {
   "baslik": "Sayıştay Bşk. 2 Sözleşmeli Bilişim Personeli Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-30",
   "sonuc": "DIKKAT"
@@ -3994,7 +4018,7 @@
  "https://www.memurjet.com/is-ilanlari/tasarruf-mevduati-sigorta-fonu-75-personel-alimi": {
   "baslik": "Tasarruf Mevduatı Sigorta Fonu 75 Personel Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-30",
   "sonuc": "DIKKAT"
@@ -4002,7 +4026,7 @@
  "https://www.memurjet.com/is-ilanlari/tasarruf-mevduati-sigorta-fonu-bsk-75-personel-alimi": {
   "baslik": "Tasarruf Mevduatı Sigorta Fonu Bşk. 75 Personel Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-30",
   "sonuc": "DIKKAT"
@@ -4309,7 +4333,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-26",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/turk-standardlari-enstitusu-129-personel-memur-alim-ilani": {
   "baslik": "Türk Standardları Enstitüsü 129 Personel Memur Alım İlanı",
