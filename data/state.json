@@ -839,6 +839,14 @@
   "son_basvuru": "2026-10-02",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/burdur-mehmet-akif-ersoy-uni-1-sistem-yoneticisi-alimi": {
+  "baslik": "Burdur Mehmet Akif Ersoy Üni. 1 Sistem Yöneticisi Alımı",
+  "bildirilen": true,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-28",
+  "son_basvuru": "2026-11-11",
+  "sonuc": "DIKKAT"
+ },
  "https://www.memurjet.com/is-ilanlari/burdur-mehmet-akif-ersoy-uni-22-ogretim-uyesi-alim-ilani": {
   "baslik": "Burdur Mehmet Akif Ersoy Üni. 22 Öğretim Üyesi Alım İlanı",
   "bildirilen": false,
@@ -1245,7 +1253,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-27",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/dokuz-eylul-uni-8-ogretim-gorevlisi-alim-ilani": {
   "baslik": "Dokuz Eylül Üni. 8 Öğretim Görevlisi Alım İlanı",
@@ -4282,7 +4290,7 @@
  "https://www.memurjet.com/is-ilanlari/turk-akreditasyon-kurumu-2-bilisim-personeli-alimi": {
   "baslik": "Türk Akreditasyon Kurumu 2 Bilişim Personeli Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-31",
   "sonuc": "DIKKAT"
