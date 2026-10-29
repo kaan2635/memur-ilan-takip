@@ -58,12 +58,12 @@
    "Elektrik-Elektronik Mühendisi"
   ],
   "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-BEL2-kesan-belediye-baskanligi-2-memur-alacak-20261116",
-  "meta": "Kadrolu memur · KPSS + Sözlü sınav · Online / Şahsen / Posta / E-posta",
+  "meta": "Kadrolu memur · Sözlü sınav · Online / Şahsen / Posta / E-posta",
   "son_basvuru": "2026-11-19",
   "baslangic": "2026-11-16",
   "son_saat": "17:30",
   "istihdam": "Kadrolu memur",
-  "sinav": "KPSS + Sözlü sınav",
+  "sinav": "Sözlü sınav",
   "basvuru_yolu": "Online / Şahsen / Posta / E-posta",
   "yer": "Edirne",
   "kadro": 2,
@@ -459,6 +459,52 @@
   }
  },
  {
+  "url": "https://www.memurjet.com/is-ilanlari/malazgirt-belediye-baskanligi-4-memur-alimi",
+  "baslik": "Malazgirt Belediye Başkanlığı 4 Memur Alımı",
+  "unvanlar": [
+   "Muhasebeci",
+   "Mimar",
+   "Jeodezi ve Fotogrametri Mühendisi",
+   "İnşaat Mühendisi"
+  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-BEL2-malazgirt-belediye-baskanligi-4-memur-alacak-20261102",
+  "meta": "Kadrolu memur · Sözlü sınav · Online / Posta / E-posta",
+  "son_basvuru": "2026-11-04",
+  "baslangic": "2026-11-02",
+  "son_saat": null,
+  "istihdam": "Kadrolu memur",
+  "sinav": "Sözlü sınav",
+  "basvuru_yolu": "Online / Posta / E-posta",
+  "yer": "Muş",
+  "kadro": 4,
+  "ogrenim": [],
+  "kpss_turleri": [
+   3
+  ],
+  "kpss_asgari": {
+   "3": 60.0
+  },
+  "kpss_yillari": [
+   2026
+  ],
+  "kpss_var": true,
+  "deneyim_yillari": [],
+  "yas_siniri": null,
+  "yds": false,
+  "belgeler": [],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "lisans düzeyi",
+   "uyarilar": [
+    "öğrenim satırı ayrıştırılamadı, ilan metnini kontrol et",
+    "asgari puan: P3≥60"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
   "url": "https://www.memurjet.com/is-ilanlari/cumhurbaskanligi-sbb-7-sozlesmeli-bilisim-personeli-alimi",
   "baslik": "Cumhurbaşkanlığı SBB 7 Sözleşmeli Bilişim Personeli Alımı",
   "unvanlar": [
@@ -792,12 +838,12 @@
    "Büro Görevlisi"
   ],
   "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-A1055-orta-karadeniz-kalkinma-ajansi-5-alacak-20261102",
-  "meta": "Sürekli işçi · Dosya değerlendirme + Sözlü sınav · e-Devlet / Kariyer Kapısı",
+  "meta": "Sürekli işçi · Sözlü sınav · e-Devlet / Kariyer Kapısı",
   "son_basvuru": "2026-11-22",
   "baslangic": "2026-11-02",
   "son_saat": "23:59",
   "istihdam": "Sürekli işçi",
-  "sinav": "Dosya değerlendirme + Sözlü sınav",
+  "sinav": "Sözlü sınav",
   "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
   "yer": "Amasya, Çorum, Samsun +1 il",
   "kadro": 5,
