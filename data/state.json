@@ -671,6 +671,14 @@
   "son_basvuru": "2026-10-05",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/batman-universitesi-13-ogretim-uyesi-alimi": {
+  "baslik": "Batman Üniversitesi 13 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-30",
+  "son_basvuru": "2026-11-13",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/batman-universitesi-15-sozlesmeli-personel-alimi": {
   "baslik": "Batman Üniversitesi 15 Sözleşmeli Personel Alımı",
   "bildirilen": false,
@@ -685,6 +693,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-22",
   "son_basvuru": "2026-08-27",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/batman-universitesi-5-ogretim-gorevlisi-alimi": {
+  "baslik": "Batman Üniversitesi 5 Öğretim Görevlisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-30",
+  "son_basvuru": "2026-11-13",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/bayrampasa-belediye-baskanligi-10-muhendis-alim-ilani": {
@@ -706,7 +722,7 @@
  "https://www.memurjet.com/is-ilanlari/bddk-15-sozlesmeli-bilisim-personeli-alimi": {
   "baslik": "BDDK 15 Sözleşmeli Bilişim Personeli Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-02",
   "sonuc": "DIKKAT"
@@ -1543,6 +1559,14 @@
   "son_basvuru": "2026-09-25",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/eyyubiye-belediyesi-9-zabita-memuru-alimi": {
+  "baslik": "Eyyübiye Belediyesi 9 Zabıta Memuru Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-30",
+  "son_basvuru": "2026-12-10",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/firat-universitesi-15-arastirma-gorevlisi-alimi": {
   "baslik": "Fırat Üniversitesi 15 Araştırma Görevlisi Alımı",
   "bildirilen": false,
@@ -1589,6 +1613,22 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-22",
   "son_basvuru": "2026-08-10",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/gazi-universitesi-87-ogretim-uyesi-alimi": {
+  "baslik": "Gazi Üniversitesi 87 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-30",
+  "son_basvuru": "2026-11-13",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/gazi-universitesi-9-ogretim-elemani-alimi": {
+  "baslik": "Gazi Üniversitesi 9 Öğretim Elemanı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-30",
+  "son_basvuru": "2026-11-13",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/gaziantep-islam-bilim-ve-tek-uni-29-alim-ilani": {
@@ -1962,7 +2002,7 @@
  "https://www.memurjet.com/is-ilanlari/iett-44-memur-alimi": {
   "baslik": "İETT 44 Memur Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-02",
   "sonuc": "KESIN"
@@ -2407,6 +2447,14 @@
   "son_basvuru": "2026-10-16",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/kamu-ihale-kurumu-25-kamu-ihale-uzman-yardimcisi-alimi": {
+  "baslik": "Kamu İhale Kurumu 25 Kamu İhale Uzman Yardımcısı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-30",
+  "son_basvuru": "2026-11-20",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/karabaglar-belediyesi-2-muhendis-alimi": {
   "baslik": "Karabağlar Belediyesi 2 Mühendis Alımı",
   "bildirilen": false,
@@ -2583,6 +2631,14 @@
   "son_basvuru": "2026-09-25",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-1-ogretim-gorevlisi-alimi": {
+  "baslik": "Kayseri Üniversitesi 1 Öğretim Görevlisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-30",
+  "son_basvuru": "2026-11-13",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-2-ogretim-elemani-alim-ilani": {
   "baslik": "Kayseri Üniversitesi 2 Öğretim Elemanı Alım İlanı",
   "bildirilen": false,
@@ -2605,6 +2661,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": null,
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-3-doktor-ogretim-uyesi-alimi": {
+  "baslik": "Kayseri Üniversitesi 3 Doktor Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-30",
+  "son_basvuru": "2026-11-13",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-3-sozlesmeli-personel-memur-alim-ilani": {
@@ -3407,6 +3471,14 @@
   "son_basvuru": "2026-10-09",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/nukleer-duzenleme-8-sozlesmeli-bilisim-personeli-alimi": {
+  "baslik": "Nükleer Düzenleme 8 Sözleşmeli Bilişim Personeli Alımı",
+  "bildirilen": true,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-30",
+  "son_basvuru": "2026-11-23",
+  "sonuc": "DIKKAT"
+ },
  "https://www.memurjet.com/is-ilanlari/odtu-4-doktor-ogretim-uyesi-alimi": {
   "baslik": "ODTÜ 4 Doktor Öğretim Üyesi Alımı",
   "bildirilen": false,
@@ -3661,6 +3733,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-22",
   "son_basvuru": "2026-09-09",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/saglik-bakanligi-2026-3-donem-saglik-personeli-alimi": {
+  "baslik": "Sağlık Bakanlığı 2026 3. Dönem Sağlık Personeli Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-30",
+  "son_basvuru": "2026-11-05",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/saglik-bilimleri-uni-13-destek-personeli-alim-ilani": {
