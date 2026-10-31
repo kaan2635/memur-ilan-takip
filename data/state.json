@@ -791,6 +791,14 @@
   "son_basvuru": "2026-10-06",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/bitlis-eren-universitesi-7-ogretim-uyesi-alimi": {
+  "baslik": "Bitlis Eren Üniversitesi 7 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-10-31",
+  "son_basvuru": "2026-11-14",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/bogazici-universitesi-1-ogretim-gorevlisi-alimi": {
   "baslik": "Boğaziçi Üniversitesi 1 Öğretim Görevlisi Alımı",
   "bildirilen": false,
@@ -2511,14 +2519,6 @@
   "son_basvuru": "2026-09-07",
   "sonuc": null
  },
- "https://www.memurjet.com/is-ilanlari/karadeniz-teknik-universitesi-15-akademik-memur-alim-ilani": {
-  "baslik": "Karadeniz Teknik Üniversitesi 15 Akademik Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-02",
-  "sonuc": null
- },
  "https://www.memurjet.com/is-ilanlari/karadeniz-teknik-universitesi-35-ogretim-memur-alim-ilani": {
   "baslik": "Karadeniz Teknik Üniversitesi 35 Öğretim Memur Alım İlanı",
   "bildirilen": false,
@@ -3925,7 +3925,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-30",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/selcuk-universitesi-75-ogretim-uyesi-alim-ilani": {
   "baslik": "Selçuk Üniversitesi 75 Öğretim Üyesi Alım İlanı",
@@ -4213,7 +4213,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-30",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/tasarruf-mevduati-sigorta-fonu-bsk-75-personel-alimi": {
   "baslik": "Tasarruf Mevduatı Sigorta Fonu Bşk. 75 Personel Alımı",
@@ -4221,7 +4221,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-30",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/taskesti-belediye-baskanligi-1-muhendis-alimi": {
   "baslik": "Taşkesti Belediye Başkanlığı 1 Mühendis Alımı",
