@@ -1879,14 +1879,6 @@
   "son_basvuru": "2026-08-27",
   "sonuc": null
  },
- "https://www.memurjet.com/is-ilanlari/guneykaya-belediyesi-2-memur-alim-ilani": {
-  "baslik": "Güneykaya Belediyesi 2 Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-03",
-  "sonuc": null
- },
  "https://www.memurjet.com/is-ilanlari/hacettepe-universitesi-17-ogretim-elemani-alim-ilani": {
   "baslik": "Hacettepe Üniversitesi 17 Öğretim Elemanı Alım İlanı",
   "bildirilen": false,
@@ -2173,7 +2165,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-22",
-  "sonuc": null
+  "sonuc": "DIKKAT"
  },
  "https://www.memurjet.com/is-ilanlari/istanbul-medeniyet-universitesi-12-memur-alim-ilani": {
   "baslik": "İstanbul Medeniyet Üniversitesi 12 Memur Alım İlanı",
@@ -3146,7 +3138,7 @@
  "https://www.memurjet.com/is-ilanlari/malazgirt-belediye-baskanligi-4-memur-alimi": {
   "baslik": "Malazgirt Belediye Başkanlığı 4 Memur Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-04",
   "sonuc": "DIKKAT"
@@ -3549,7 +3541,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-12-03",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/orta-dogu-teknik-uni-2-bilisim-personeli-alim-ilani": {
   "baslik": "Orta Doğu Teknik Üni. 2 Bilişim Personeli Alım İlanı",
@@ -3573,7 +3565,7 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-22",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/osmaniye-korkut-ata-uni-27-ogretim-uyesi-alim-ilani": {
   "baslik": "Osmaniye Korkut Ata Üni. 27 Öğretim Üyesi Alım İlanı",
@@ -3737,11 +3729,11 @@
  },
  "https://www.memurjet.com/is-ilanlari/saglik-bakanligi-2026-3-donem-saglik-personeli-alimi": {
   "baslik": "Sağlık Bakanlığı 2026 3. Dönem Sağlık Personeli Alımı",
-  "bildirilen": false,
+  "bildirilen": true,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-30",
   "son_basvuru": "2026-11-05",
-  "sonuc": null
+  "sonuc": "DIKKAT"
  },
  "https://www.memurjet.com/is-ilanlari/saglik-bilimleri-uni-13-destek-personeli-alim-ilani": {
   "baslik": "Sağlık Bilimleri Üni. 13 Destek Personeli Alım İlanı",
@@ -4469,7 +4461,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-31",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/turk-akreditasyon-kurumu-7-uzman-yardimcisi-alimi": {
   "baslik": "Türk Akreditasyon Kurumu 7 Uzman Yardımcısı Alımı",
