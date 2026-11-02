@@ -529,6 +529,65 @@
   }
  },
  {
+  "url": "https://www.memurjet.com/is-ilanlari/jandarma-genel-komutanligi-30-devlet-memuru-alimi",
+  "baslik": "Jandarma Genel Komutanlığı 30 Devlet Memuru Alımı",
+  "unvanlar": [
+   "Avukat",
+   "Mühendis",
+   "Kimyager",
+   "Psikolog",
+   "Uzman",
+   "Isparta"
+  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-804-jandarma-genel-komutanligi-30-memur-temin-edilecektir-20261102",
+  "meta": "Kadrolu memur · Sözlü sınav · e-Devlet",
+  "son_basvuru": "2026-11-16",
+  "baslangic": "2026-11-02",
+  "son_saat": "23:59",
+  "istihdam": "Kadrolu memur",
+  "sinav": "Sözlü sınav",
+  "basvuru_yolu": "e-Devlet",
+  "yer": "Ankara, Artvin, Çankırı +16 il",
+  "kadro": 30,
+  "ogrenim": [
+   "Lisans · İlgili alana göre değişken (Hukuk, Mühendislik, İstatistik, Kimya, Psikoloji vb.)"
+  ],
+  "kpss_turleri": [
+   3
+  ],
+  "kpss_asgari": {
+   "3": 60.0
+  },
+  "kpss_yillari": [
+   2025,
+   2026
+  ],
+  "kpss_var": true,
+  "deneyim_yillari": [
+   3
+  ],
+  "yas_siniri": null,
+  "yds": true,
+  "belgeler": [
+   "sürücü belgesi",
+   "sertifika",
+   "SGK dökümü"
+  ],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
+   "uyarilar": [
+    "asgari puan: P3≥60",
+    "deneyim isteniyor: 3 yıl",
+    "YDS/yabancı dil belgesi geçiyor",
+    "belge/sertifika: sürücü belgesi, sertifika, SGK dökümü"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
   "url": "https://www.memurjet.com/is-ilanlari/ytb-15-uzman-yardimcisi-alimi",
   "baslik": "YTB 15 Uzman Yardımcısı Alımı",
   "unvanlar": [
@@ -688,6 +747,59 @@
    "uyarilar": [
     "asgari puan: P3≥70",
     "deneyim isteniyor: 3–8 yıl (bazı unvanlarda)",
+    "YDS/yabancı dil belgesi geçiyor",
+    "belge/sertifika: sertifika, SGK dökümü"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
+  "url": "https://www.memurjet.com/is-ilanlari/yildiz-teknik-universitesi-2-bilisim-personeli-alimi",
+  "baslik": "Yıldız Teknik Üniversitesi 2 Bilişim Personeli Alımı",
+  "unvanlar": [
+   "Bilgi Güvenliği Uzmanı",
+   "Ağ Uzmanı",
+   "İstanbul"
+  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-530-yildiz-teknik-universitesi-2-bilisim-personeli-alacak-20261102",
+  "meta": "4/B Sözleşmeli · Yazılı sınav + Sözlü sınav + Uygulamalı sınav · e-Devlet / Kariyer Kapısı",
+  "son_basvuru": "2026-12-01",
+  "baslangic": "2026-11-02",
+  "son_saat": null,
+  "istihdam": "4/B Sözleşmeli",
+  "sinav": "Yazılı sınav + Sözlü sınav + Uygulamalı sınav",
+  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
+  "yer": "İstanbul",
+  "kadro": 2,
+  "ogrenim": [
+   "Lisans · Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği, Endüstri Mühendisliği veya ilgili mühendislik/fen bilimleri alanları"
+  ],
+  "kpss_turleri": [
+   3
+  ],
+  "kpss_asgari": {},
+  "kpss_yillari": [
+   2025,
+   2026
+  ],
+  "kpss_var": true,
+  "deneyim_yillari": [
+   3,
+   5
+  ],
+  "yas_siniri": null,
+  "yds": true,
+  "belgeler": [
+   "sertifika",
+   "SGK dökümü"
+  ],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
+   "uyarilar": [
+    "deneyim isteniyor: 3–5 yıl (bazı unvanlarda)",
     "YDS/yabancı dil belgesi geçiyor",
     "belge/sertifika: sertifika, SGK dökümü"
    ],

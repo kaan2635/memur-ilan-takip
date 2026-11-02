@@ -519,6 +519,14 @@
   "son_basvuru": "2026-10-16",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/aydin-adnan-menderes-universitesi-8-tarim-isci-alimi": {
+  "baslik": "Aydın Adnan Menderes Üniversitesi 8 Tarım İşçi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-02",
+  "son_basvuru": "2026-11-06",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/azatli-belediye-1-muhasebeci-alim-ilani": {
   "baslik": "Azatlı Belediye 1 Muhasebeci Alım İlanı",
   "bildirilen": false,
@@ -1130,7 +1138,7 @@
  "https://www.memurjet.com/is-ilanlari/cumhurbaskanligi-sbb-7-sozlesmeli-bilisim-personeli-alimi": {
   "baslik": "Cumhurbaşkanlığı SBB 7 Sözleşmeli Bilişim Personeli Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-23",
   "son_basvuru": "2026-11-05",
   "sonuc": "DIKKAT"
@@ -1309,6 +1317,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-29",
   "son_basvuru": "2026-12-04",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/dogu-karadeniz-kalkinma-ajansi-1-uzman-alimi": {
+  "baslik": "Doğu Karadeniz Kalkınma Ajansı 1 Uzman Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-02",
+  "son_basvuru": "2026-12-06",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/dogu-marmara-kalkinma-ajansi-5-personel-alim-ilani": {
@@ -2295,6 +2311,14 @@
   "son_basvuru": "2026-12-04",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/izmir-demokrasi-3-arastirma-ve-ogretim-gorevlisi-alimi": {
+  "baslik": "İzmir Demokrasi 3 Araştırma ve Öğretim Görevlisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-02",
+  "son_basvuru": "2026-11-16",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/izmir-demokrasi-uni-4-akademik-personel-alim-ilani": {
   "baslik": "İzmir Demokrasi Üni. 4 Akademik Personel Alım İlanı",
   "bildirilen": false,
@@ -2319,12 +2343,28 @@
   "son_basvuru": "2026-08-07",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/izmir-demokrasi-universitesi-2-ogretim-elemani-alimi": {
+  "baslik": "İzmir Demokrasi Üniversitesi 2 Öğretim Elemanı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-02",
+  "son_basvuru": "2026-11-16",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/izmir-demokrasi-universitesi-20-ogretim-uyesi-alim-ilani": {
   "baslik": "İzmir Demokrasi Üniversitesi 20 Öğretim Üyesi Alım İlanı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-02",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/izmir-demokrasi-universitesi-7-ogretim-uyesi-alimi": {
+  "baslik": "İzmir Demokrasi Üniversitesi 7 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-02",
+  "son_basvuru": "2026-11-16",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/izmir-demokrasi-universitesi-7-sozlesmeli-memur-alim-ilani": {
@@ -2343,6 +2383,14 @@
   "son_basvuru": "2026-07-19",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/izmir-katip-celebi-universitesi-19-ogretim-uyesi-alimi": {
+  "baslik": "İzmir Kâtip Çelebi Üniversitesi 19 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-02",
+  "son_basvuru": "2026-11-16",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/jandarma-genel-komutanligi-1-sozlesmeli-pilot-alimi": {
   "baslik": "Jandarma Genel Komutanlığı 1 Sözleşmeli Pilot Alımı",
   "bildirilen": false,
@@ -2358,6 +2406,14 @@
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-26",
   "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/jandarma-genel-komutanligi-30-devlet-memuru-alimi": {
+  "baslik": "Jandarma Genel Komutanlığı 30 Devlet Memuru Alımı",
+  "bildirilen": true,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-02",
+  "son_basvuru": "2026-11-16",
+  "sonuc": "DIKKAT"
  },
  "https://www.memurjet.com/is-ilanlari/jandarma-genel-komutanligi-5-sozlesmeli-bilisim-alim-ilani": {
   "baslik": "Jandarma Genel Komutanlığı 5 Sözleşmeli Bilişim Alım İlanı",
@@ -3319,6 +3375,14 @@
   "son_basvuru": "2026-12-31",
   "sonuc": "DIKKAT"
  },
+ "https://www.memurjet.com/is-ilanlari/mimar-sinan-guzel-sanatlar-uni-1-canli-model-alimi": {
+  "baslik": "Mimar Sinan Güzel Sanatlar Üni. 1 Canlı Model Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-02",
+  "son_basvuru": "2026-11-06",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/mimar-sinan-guzel-sanatlar-uni-10-alim-ilani": {
   "baslik": "Mimar Sinan Güzel Sanatlar Üni. 10 Alım İlanı",
   "bildirilen": false,
@@ -3730,7 +3794,7 @@
  "https://www.memurjet.com/is-ilanlari/saglik-bakanligi-2026-3-donem-saglik-personeli-alimi": {
   "baslik": "Sağlık Bakanlığı 2026 3. Dönem Sağlık Personeli Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-30",
   "son_basvuru": "2026-11-05",
   "sonuc": "DIKKAT"
@@ -4791,6 +4855,14 @@
   "son_basvuru": "2026-10-15",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/yildiz-teknik-universitesi-2-bilisim-personeli-alimi": {
+  "baslik": "Yıldız Teknik Üniversitesi 2 Bilişim Personeli Alımı",
+  "bildirilen": true,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-02",
+  "son_basvuru": "2026-12-01",
+  "sonuc": "DIKKAT"
+ },
  "https://www.memurjet.com/is-ilanlari/yildiz-teknik-universitesi-25-sozlesmeli-memur-alim-ilani": {
   "baslik": "Yıldız Teknik Üniversitesi 25 Sözleşmeli Memur Alım İlanı",
   "bildirilen": false,
@@ -4853,6 +4925,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-09-29",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/yuksekogretim-kurulu-bsk-5-sozlesmeli-personel-alimi": {
+  "baslik": "Yükseköğretim Kurulu Bşk. 5 Sözleşmeli Personel Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-02",
+  "son_basvuru": "2026-11-16",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/yuksekova-belediyesi-14-memur-alim-ilani": {
