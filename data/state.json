@@ -733,7 +733,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-02",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/bddk-baskanligi-135-meslek-personeli-alim-ilani": {
   "baslik": "BDDK Başkanlığı 135 Meslek Personeli Alım İlanı",
@@ -1618,7 +1618,7 @@
  "https://www.memurjet.com/is-ilanlari/galatasaray-uni-1-yazilim-gelistirme-uzmani-alimi": {
   "baslik": "Galatasaray Üni. 1 Yazılım Geliştirme Uzmanı Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-23",
   "son_basvuru": "2026-11-06",
   "sonuc": "DIKKAT"
@@ -1663,6 +1663,14 @@
   "son_basvuru": "2026-09-15",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/gaziantep-universitesi-11-ogretim-elemani-alimi": {
+  "baslik": "Gaziantep Üniversitesi 11 Öğretim Elemanı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-03",
+  "son_basvuru": "2026-11-17",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/gaziantep-universitesi-115-sozlesmeli-personel-alim-ilani": {
   "baslik": "Gaziantep Üniversitesi 115 Sözleşmeli Personel Alım İlanı",
   "bildirilen": false,
@@ -1677,6 +1685,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-22",
   "son_basvuru": "2026-08-25",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/gaziantep-universitesi-78-ogretim-uyesi-alimi": {
+  "baslik": "Gaziantep Üniversitesi 78 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-03",
+  "son_basvuru": "2026-11-17",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/gaziosmanpasa-belediye-36-zabita-memuru-alimi": {
@@ -2021,7 +2037,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-02",
-  "sonuc": "KESIN"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/igdir-universitesi-1-ic-denetci-memur-alim-ilani": {
   "baslik": "Iğdır Üniversitesi 1 İç Denetçi Memur Alım İlanı",
@@ -2357,6 +2373,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-02",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/izmir-demokrasi-universitesi-3-ogretim-elemani-alimi": {
+  "baslik": "İzmir Demokrasi Üniversitesi 3 Öğretim Elemanı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-03",
+  "son_basvuru": "2026-11-16",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/izmir-demokrasi-universitesi-7-ogretim-uyesi-alimi": {
@@ -4218,7 +4242,7 @@
  "https://www.memurjet.com/is-ilanlari/tarim-ve-orman-13-sozlesmeli-bilisim-personeli-alimi": {
   "baslik": "Tarım ve Orman 13 Sözleşmeli Bilişim Personeli Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-23",
   "son_basvuru": "2026-11-06",
   "sonuc": "DIKKAT"

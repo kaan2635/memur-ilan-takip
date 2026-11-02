@@ -1,56 +1,5 @@
 [
  {
-  "url": "https://www.memurjet.com/is-ilanlari/iett-44-memur-alimi",
-  "baslik": "İETT 44 Memur Alımı",
-  "unvanlar": [
-   "Bilgisayar İşletmeni",
-   "Muhasebeci",
-   "Psikolog",
-   "Mühendis",
-   "İstanbul"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-E1031-istanbul-elektrik-tramvay-ve-tunel-isletmeleri-genel-mudurlugu-iett-44-memur-ala-20261026",
-  "meta": "Kadrolu memur · KPSS + Sözlü sınav · Online",
-  "son_basvuru": "2026-11-02",
-  "baslangic": "2026-10-26",
-  "son_saat": null,
-  "istihdam": "Kadrolu memur",
-  "sinav": "KPSS + Sözlü sınav",
-  "basvuru_yolu": "Online",
-  "yer": "İstanbul",
-  "kadro": 44,
-  "ogrenim": [
-   "Lisans · İlandaki unvana göre değişiklik gösterir (Bilgisayar, Muhasebe, Psikoloji, Mühendislik programları)"
-  ],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 70.0
-  },
-  "kpss_yillari": [
-   2026
-  ],
-  "kpss_var": true,
-  "deneyim_yillari": [],
-  "yas_siniri": null,
-  "yds": false,
-  "belgeler": [
-   "sertifika"
-  ],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "KESIN",
-   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
-   "uyarilar": [
-    "asgari puan: P3≥70",
-    "belge/sertifika: sertifika"
-   ],
-   "oncelikli": false
-  }
- },
- {
   "url": "https://www.memurjet.com/is-ilanlari/kesan-belediye-baskanligi-2-memur-alimi",
   "baslik": "Keşan Belediye Başkanlığı 2 Memur Alımı",
   "unvanlar": [
@@ -92,66 +41,6 @@
    "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
    "uyarilar": [
     "asgari puan: P3≥70"
-   ],
-   "oncelikli": false
-  }
- },
- {
-  "url": "https://www.memurjet.com/is-ilanlari/bddk-15-sozlesmeli-bilisim-personeli-alimi",
-  "baslik": "BDDK 15 Sözleşmeli Bilişim Personeli Alımı",
-  "unvanlar": [
-   "Kıdemli Siber Güvenlik Uzmanı",
-   "Kıdemli Yazılım Uzmanı",
-   "Yapay Zekâ Uzmanı",
-   "Ağ Güvenliği Uzmanı",
-   "Sistem Uzmanı",
-   "Yazılım Geliştirme Uzmanı",
-   "İstanbul"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-10090-bankacilik-duzenleme-ve-denetleme-kurumu-baskanligi-15-sozlesmeli-bilisim-person-20261019",
-  "meta": "4/B Sözleşmeli · KPSS + Sözlü sınav · Kariyer Kapısı",
-  "son_basvuru": "2026-11-02",
-  "baslangic": "2026-10-19",
-  "son_saat": "23:59",
-  "istihdam": "4/B Sözleşmeli",
-  "sinav": "KPSS + Sözlü sınav",
-  "basvuru_yolu": "Kariyer Kapısı",
-  "yer": "İstanbul",
-  "kadro": 15,
-  "ogrenim": [
-   "Lisans · Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği veya diğer mühendislik bölümleri, Fen-Edebiyat/Eğitim fakülteleri bilgisayar ve teknoloji bölümleri, İstatistik, Matematik, Fizik bölümleri"
-  ],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 70.0
-  },
-  "kpss_yillari": [
-   2025,
-   2026
-  ],
-  "kpss_var": true,
-  "deneyim_yillari": [
-   3,
-   5
-  ],
-  "yas_siniri": null,
-  "yds": true,
-  "belgeler": [
-   "sertifika",
-   "SGK dökümü"
-  ],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "DIKKAT",
-   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
-   "uyarilar": [
-    "asgari puan: P3≥70",
-    "deneyim isteniyor: 3–5 yıl (bazı unvanlarda)",
-    "YDS/yabancı dil belgesi geçiyor",
-    "belge/sertifika: sertifika, SGK dökümü"
    ],
    "oncelikli": false
   }
