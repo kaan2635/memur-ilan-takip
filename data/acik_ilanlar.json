@@ -365,6 +365,49 @@
   }
  },
  {
+  "url": "https://www.memurjet.com/is-ilanlari/bagtasi-belediye-baskanligi-4-beden-isci-alimi",
+  "baslik": "Bağtaşı Belediye Başkanlığı 4 Beden İşçi Alımı",
+  "unvanlar": [
+   "Beden İşçisi"
+  ],
+  "resmi_kaynak": null,
+  "meta": "Geçici işçi · Noter kurası · e-Devlet",
+  "son_basvuru": "2026-11-09",
+  "baslangic": "2026-11-04",
+  "son_saat": null,
+  "istihdam": "Geçici işçi",
+  "sinav": "Noter kurası",
+  "basvuru_yolu": "e-Devlet",
+  "yer": "Tokat",
+  "kadro": 4,
+  "ogrenim": [
+   "İlköğretim",
+   "Lisans"
+  ],
+  "kpss_turleri": [],
+  "kpss_asgari": {},
+  "kpss_yillari": [
+   2026
+  ],
+  "kpss_var": true,
+  "deneyim_yillari": [],
+  "yas_siniri": null,
+  "yds": false,
+  "belgeler": [
+   "sürücü belgesi"
+  ],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "herhangi bir lisans / bölüm kısıtı yok",
+   "uyarilar": [
+    "belge/sertifika: sürücü belgesi"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
   "url": "https://www.memurjet.com/is-ilanlari/burdur-mehmet-akif-ersoy-uni-1-sistem-yoneticisi-alimi",
   "baslik": "Burdur Mehmet Akif Ersoy Üni. 1 Sistem Yöneticisi Alımı",
   "unvanlar": [
@@ -691,6 +734,72 @@
     "deneyim isteniyor: 3–5 yıl (bazı unvanlarda)",
     "YDS/yabancı dil belgesi geçiyor",
     "belge/sertifika: sertifika, SGK dökümü"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
+  "url": "https://www.memurjet.com/is-ilanlari/zafer-kalkinma-ajansi-2-uzman-personel-alimi",
+  "baslik": "Zafer Kalkınma Ajansı 2 Uzman Personel Alımı",
+  "unvanlar": [
+   "Uzman Personel"
+  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-A1043-zafer-kalkinma-ajansi-2-sozlesmeli-personel-alacak-20261125",
+  "meta": "Sürekli işçi · Sözlü sınav + Dosya değerlendirme · Kariyer Kapısı",
+  "son_basvuru": "2026-12-14",
+  "baslangic": "2026-11-25",
+  "son_saat": null,
+  "istihdam": "Sürekli işçi",
+  "sinav": "Sözlü sınav + Dosya değerlendirme",
+  "basvuru_yolu": "Kariyer Kapısı",
+  "yer": "Afyonkarahisar, Kütahya, Manisa +1 il",
+  "kadro": 2,
+  "ogrenim": [
+   "Lisans · Mühendislik Bölümleri, Şehir ve Bölge Planlama, İstatistik, Ekonometri, İktisat (Ekonomi), Maliye, İşletme, Kamu Yönetimi (Siyaset Bilimi ve Kamu Yönetimi), Uluslararası İlişkiler (Siyaset Bilimi ve Uluslararası İlişkiler), Çalışma Ekonomisi ve Endüstri İlişkileri",
+   "Yüksek lisans · İlgili alanlar",
+   "Doktora · İlgili alanlar"
+  ],
+  "kpss_turleri": [
+   1,
+   2,
+   3,
+   12,
+   13,
+   14,
+   15,
+   19,
+   20,
+   24,
+   25,
+   29,
+   30,
+   34,
+   35,
+   39,
+   40
+  ],
+  "kpss_asgari": {
+   "40": 80.0
+  },
+  "kpss_yillari": [
+   2026
+  ],
+  "kpss_var": true,
+  "deneyim_yillari": [],
+  "yas_siniri": null,
+  "yds": true,
+  "belgeler": [
+   "sürücü belgesi"
+  ],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
+   "uyarilar": [
+    "asgari puan: P40≥80",
+    "YDS/yabancı dil belgesi geçiyor",
+    "belge/sertifika: sürücü belgesi"
    ],
    "oncelikli": false
   }
