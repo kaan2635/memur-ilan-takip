@@ -295,6 +295,14 @@
   "son_basvuru": "2026-10-30",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/akseki-belediye-baskanligi-1-muhendis-alimi": {
+  "baslik": "Akseki Belediye Başkanlığı 1 Mühendis Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-05",
+  "son_basvuru": "2026-12-25",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/alanya-alaaddin-keykubat-uni-14-ogretim-elemani-alimi": {
   "baslik": "Alanya Alaaddin Keykubat Üni. 14 Öğretim Elemanı Alımı",
   "bildirilen": false,
@@ -1951,6 +1959,14 @@
   "son_basvuru": "2026-08-27",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/gundogmus-belediyesi-4-memur-alimi": {
+  "baslik": "Gündoğmuş Belediyesi 4 Memur Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-05",
+  "son_basvuru": "2027-01-05",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/hacettepe-universitesi-17-ogretim-elemani-alim-ilani": {
   "baslik": "Hacettepe Üniversitesi 17 Öğretim Elemanı Alım İlanı",
   "bildirilen": false,
@@ -3239,6 +3255,14 @@
   "son_basvuru": "2026-08-29",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/malatya-ili-emniyet-mudurlugu-1-kuafor-alimi": {
+  "baslik": "Malatya İli Emniyet Müdürlüğü 1 Kuaför Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-05",
+  "son_basvuru": "2026-11-09",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/malatya-turgut-ozal-uni-13-sozlesmeli-personel-alim-ilani": {
   "baslik": "Malatya Turgut Özal Üni. 13 Sözleşmeli Personel Alım İlanı",
   "bildirilen": false,
@@ -3261,7 +3285,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-04",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/manisa-celal-bayar-uni-142-sozlesmeli-personel-alim-ilani": {
   "baslik": "Manisa Celal Bayar Üni. 142 Sözleşmeli Personel Alım İlanı",
@@ -3525,6 +3549,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-27",
   "son_basvuru": "2026-11-10",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/necmettin-erbakan-uni-4-arastirma-gorevlisi-alimi": {
+  "baslik": "Necmettin Erbakan Üni. 4 Araştırma Görevlisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-05",
+  "son_basvuru": "2026-11-20",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/necmettin-erbakan-uni-7-arastirma-gorevlisi-alim-ilani": {
@@ -3981,6 +4013,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-09-25",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/samsun-universitesi-4-profesor-alimi": {
+  "baslik": "Samsun Üniversitesi 4 Profesör Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-05",
+  "son_basvuru": "2026-11-19",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/samsun/19-mayis": {
@@ -4738,7 +4778,7 @@
  "https://www.memurjet.com/is-ilanlari/turkiye-is-kurumu-11-sozlesmeli-bilisim-personeli-alimi": {
   "baslik": "Türkiye İş Kurumu 11 Sözleşmeli Bilişim Personeli Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-08",
   "sonuc": "DIKKAT"
@@ -4758,6 +4798,14 @@
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": null,
   "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/turkiye-seker-fabrikalari-42-sozlesmeli-muhendis-alimi": {
+  "baslik": "Türkiye Şeker Fabrikaları 42 Sözleşmeli Mühendis Alımı",
+  "bildirilen": true,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-05",
+  "son_basvuru": "2026-11-15",
+  "sonuc": "DIKKAT"
  },
  "https://www.memurjet.com/is-ilanlari/turkiye-seker-fabrikalari-83-surekli-isci-alim-ilani": {
   "baslik": "Türkiye Şeker Fabrikaları 83 Sürekli İşçi Alım İlanı",

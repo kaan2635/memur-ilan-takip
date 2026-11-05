@@ -46,52 +46,6 @@
   }
  },
  {
-  "url": "https://www.memurjet.com/is-ilanlari/malazgirt-belediye-baskanligi-4-memur-alimi",
-  "baslik": "Malazgirt Belediye Başkanlığı 4 Memur Alımı",
-  "unvanlar": [
-   "Muhasebeci",
-   "Mimar",
-   "Jeodezi ve Fotogrametri Mühendisi",
-   "İnşaat Mühendisi"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-BEL2-malazgirt-belediye-baskanligi-4-memur-alacak-20261102",
-  "meta": "Kadrolu memur · Sözlü sınav + KPSS · Online / Posta / E-posta",
-  "son_basvuru": "2026-11-04",
-  "baslangic": "2026-11-02",
-  "son_saat": null,
-  "istihdam": "Kadrolu memur",
-  "sinav": "Sözlü sınav + KPSS",
-  "basvuru_yolu": "Online / Posta / E-posta",
-  "yer": "Muş",
-  "kadro": 4,
-  "ogrenim": [],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 60.0
-  },
-  "kpss_yillari": [
-   2026
-  ],
-  "kpss_var": true,
-  "deneyim_yillari": [],
-  "yas_siniri": null,
-  "yds": false,
-  "belgeler": [],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "DIKKAT",
-   "neden": "lisans düzeyi",
-   "uyarilar": [
-    "öğrenim satırı ayrıştırılamadı, ilan metnini kontrol et",
-    "asgari puan: P3≥60"
-   ],
-   "oncelikli": false
-  }
- },
- {
   "url": "https://www.memurjet.com/is-ilanlari/cumhurbaskanligi-sbb-7-sozlesmeli-bilisim-personeli-alimi",
   "baslik": "Cumhurbaşkanlığı SBB 7 Sözleşmeli Bilişim Personeli Alımı",
   "unvanlar": [
@@ -456,6 +410,64 @@
     "deneyim isteniyor: 3–5 yıl (bazı unvanlarda)",
     "YDS/yabancı dil belgesi geçiyor",
     "belge/sertifika: sertifika, SGK dökümü"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
+  "url": "https://www.memurjet.com/is-ilanlari/turkiye-seker-fabrikalari-42-sozlesmeli-muhendis-alimi",
+  "baslik": "Türkiye Şeker Fabrikaları 42 Sözleşmeli Mühendis Alımı",
+  "unvanlar": [
+   "Bilgisayar Mühendisi",
+   "Elektrik-Elektronik Mühendisi",
+   "Gıda Mühendisi",
+   "İnşaat Mühendisi",
+   "Kimya Mühendisi",
+   "Makine Mühendisi",
+   "Makine Teknisyeni",
+   "Metalurji ve Malzeme Mühendisi",
+   "Yapı Ressamı Teknikeri",
+   "Ziraat Mühendisi"
+  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-111700-turkiye-seker-fabrikalari-a-s-genel-mudurlugu-42-sozlesmeli-personel-alacak-20261109",
+  "meta": "4/B Sözleşmeli · Yazılı sınav + Sözlü sınav · e-Devlet / Kariyer Kapısı",
+  "son_basvuru": "2026-11-15",
+  "baslangic": "2026-11-09",
+  "son_saat": null,
+  "istihdam": "4/B Sözleşmeli",
+  "sinav": "Yazılı sınav + Sözlü sınav",
+  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
+  "yer": "Ankara, Kastamonu, Tokat +8 il",
+  "kadro": 42,
+  "ogrenim": [],
+  "kpss_turleri": [
+   3,
+   93
+  ],
+  "kpss_asgari": {
+   "93": 70.0,
+   "3": 70.0
+  },
+  "kpss_yillari": [
+   2026
+  ],
+  "kpss_var": true,
+  "deneyim_yillari": [],
+  "yas_siniri": null,
+  "yds": true,
+  "belgeler": [
+   "sürücü belgesi"
+  ],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
+   "uyarilar": [
+    "öğrenim satırı ayrıştırılamadı, ilan metnini kontrol et",
+    "asgari puan: P93≥70, P3≥70",
+    "YDS/yabancı dil belgesi geçiyor",
+    "belge/sertifika: sürücü belgesi"
    ],
    "oncelikli": false
   }
