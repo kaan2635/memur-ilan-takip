@@ -46,121 +46,6 @@
   }
  },
  {
-  "url": "https://www.memurjet.com/is-ilanlari/galatasaray-uni-1-yazilim-gelistirme-uzmani-alimi",
-  "baslik": "Galatasaray Üni. 1 Yazılım Geliştirme Uzmanı Alımı",
-  "unvanlar": [
-   "Yazılım Geliştirme Uzmanı",
-   "İstanbul"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-585-galatasaray-universitesi-1-sozlesmeli-bilisim-personeli-alacak-20261022",
-  "meta": "4/B Sözleşmeli · Yazılı sınav + Sözlü sınav · e-Devlet / Kariyer Kapısı",
-  "son_basvuru": "2026-11-06",
-  "baslangic": "2026-10-22",
-  "son_saat": null,
-  "istihdam": "4/B Sözleşmeli",
-  "sinav": "Yazılı sınav + Sözlü sınav",
-  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
-  "yer": "İstanbul",
-  "kadro": 1,
-  "ogrenim": [
-   "Lisans · Bilgisayar Mühendisliği, Sistem Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Yazılım Mühendisliği, Endüstri Mühendisliği veya denklik kabul edilen bölümler; ya da diğer mühendislik bölümleri, Fen-Edebiyat, Eğitim ve Eğitim Bilimleri Fakülteleri'nin Bilgisayar ve Teknoloji üzerine eğitim veren bölümleri ile İstatistik, Matematik ve Fizik bölümleri"
-  ],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 70.0
-  },
-  "kpss_yillari": [
-   2026
-  ],
-  "kpss_var": true,
-  "deneyim_yillari": [
-   3,
-   5
-  ],
-  "yas_siniri": null,
-  "yds": true,
-  "belgeler": [
-   "sertifika",
-   "SGK dökümü"
-  ],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "DIKKAT",
-   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
-   "uyarilar": [
-    "asgari puan: P3≥70",
-    "deneyim isteniyor: 3–5 yıl (bazı unvanlarda)",
-    "YDS/yabancı dil belgesi geçiyor",
-    "belge/sertifika: sertifika, SGK dökümü"
-   ],
-   "oncelikli": false
-  }
- },
- {
-  "url": "https://www.memurjet.com/is-ilanlari/tarim-ve-orman-13-sozlesmeli-bilisim-personeli-alimi",
-  "baslik": "Tarım ve Orman 13 Sözleşmeli Bilişim Personeli Alımı",
-  "unvanlar": [
-   "Ağ Uzmanı",
-   "Kıdemli Yazılım Uzmanı",
-   "Yazılım Geliştirme Uzmanı",
-   "Sistem Uzmanı",
-   "Risk ve Uyum Uzmanı",
-   "Kıdemli Siber Güvenlik Uzmanı"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-32-tarim-ve-orman-bakanligi-13-sozlesmeli-bilisim-personeli-alacak-20261022",
-  "meta": "4/B Sözleşmeli · Sözlü sınav + Uygulamalı sınav · e-Devlet / Kariyer Kapısı",
-  "son_basvuru": "2026-11-06",
-  "baslangic": "2026-10-22",
-  "son_saat": null,
-  "istihdam": "4/B Sözleşmeli",
-  "sinav": "Sözlü sınav + Uygulamalı sınav",
-  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
-  "yer": "Ankara",
-  "kadro": 13,
-  "ogrenim": [
-   "Lisans · Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği, Endüstri Mühendisliği veya denkliği kabul görmüş yurt dışı kurumlar; veya diğer mühendislik, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin bilgisayar ve teknoloji, istatistik, matematik ve fizik bölümleri"
-  ],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 70.0
-  },
-  "kpss_yillari": [
-   2025,
-   2026
-  ],
-  "kpss_var": true,
-  "deneyim_yillari": [
-   3,
-   4,
-   5,
-   10
-  ],
-  "yas_siniri": null,
-  "yds": true,
-  "belgeler": [
-   "sertifika",
-   "SGK dökümü"
-  ],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "DIKKAT",
-   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
-   "uyarilar": [
-    "asgari puan: P3≥70",
-    "deneyim isteniyor: 3–10 yıl (bazı unvanlarda)",
-    "YDS/yabancı dil belgesi geçiyor",
-    "belge/sertifika: sertifika, SGK dökümü"
-   ],
-   "oncelikli": false
-  }
- },
- {
   "url": "https://www.memurjet.com/is-ilanlari/turkiye-is-kurumu-11-sozlesmeli-bilisim-personeli-alimi",
   "baslik": "Türkiye İş Kurumu 11 Sözleşmeli Bilişim Personeli Alımı",
   "unvanlar": [
@@ -728,12 +613,12 @@
    "Veri Tabanı Uzmanı"
   ],
   "resmi_kaynak": null,
-  "meta": "4/B Sözleşmeli · Sözlü sınav + Uygulamalı sınav · Online",
+  "meta": "4/B Sözleşmeli · Uygulamalı sınav + Sözlü sınav · Online",
   "son_basvuru": "2026-12-31",
   "baslangic": null,
   "son_saat": null,
   "istihdam": "4/B Sözleşmeli",
-  "sinav": "Sözlü sınav + Uygulamalı sınav",
+  "sinav": "Uygulamalı sınav + Sözlü sınav",
   "basvuru_yolu": "Online",
   "yer": "Türkiye geneli",
   "kadro": 57,
