@@ -597,7 +597,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-11-04",
   "son_basvuru": "2026-11-09",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/bahce-belediye-baskanligi-1-memur-alim-ilani": {
   "baslik": "Bahçe Belediye Başkanlığı 1 Memur Alım İlanı",
@@ -3570,7 +3570,7 @@
  "https://www.memurjet.com/is-ilanlari/mesleki-yeterlilik-kurumu-1-uzman-yardimcisi-alimi": {
   "baslik": "Mesleki Yeterlilik Kurumu 1 Uzman Yardımcısı Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-11-09",
   "son_basvuru": "2026-11-13",
   "sonuc": "DIKKAT"
@@ -3733,6 +3733,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-22",
   "son_basvuru": "2026-08-31",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/munzur-universitesi-12-ogretim-elemani-alimi": {
+  "baslik": "Munzur Üniversitesi 12 Öğretim Elemanı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-10",
+  "son_basvuru": "2026-11-25",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/munzur-universitesi-17-ogretim-uyesi-alim-ilani": {
@@ -4293,6 +4301,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-20",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/sayistay-baskanligi-16-sozlesmeli-personel-alimi": {
+  "baslik": "Sayıştay Başkanlığı 16 Sözleşmeli Personel Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-10",
+  "son_basvuru": "2026-11-25",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/sayistay-baskanligi-25-denetci-yardimcisi-alim-ilani": {
