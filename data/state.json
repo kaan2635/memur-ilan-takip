@@ -973,7 +973,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-28",
   "son_basvuru": "2026-11-11",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/burdur-mehmet-akif-ersoy-uni-22-ogretim-uyesi-alim-ilani": {
   "baslik": "Burdur Mehmet Akif Ersoy Üni. 22 Öğretim Üyesi Alım İlanı",
@@ -1238,6 +1238,14 @@
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-26",
   "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/cumhurbaskanligi-ssb-26-sozlesmeli-personel-alimi": {
+  "baslik": "Cumhurbaşkanlığı SSB 26 Sözleşmeli Personel Alımı",
+  "bildirilen": true,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-12",
+  "son_basvuru": "2026-12-21",
+  "sonuc": "DIKKAT"
  },
  "https://www.memurjet.com/is-ilanlari/dalaman-belediyesi-2-sozlesmeli-personel-memur-alim-ilani": {
   "baslik": "Dalaman Belediyesi 2 Sözleşmeli Personel Memur Alım İlanı",
@@ -2751,12 +2759,28 @@
   "son_basvuru": "2026-11-20",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/karabaglar-belediyesi-1-beden-iscisi-alimi": {
+  "baslik": "Karabağlar Belediyesi 1 Beden İşçisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-12",
+  "son_basvuru": "2026-11-16",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/karabaglar-belediyesi-2-muhendis-alimi": {
   "baslik": "Karabağlar Belediyesi 2 Mühendis Alımı",
   "bildirilen": false,
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-29",
   "son_basvuru": "2026-12-04",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/karabaglar-belediyesi-39-beden-iscisi-alimi": {
+  "baslik": "Karabağlar Belediyesi 39 Beden İşçisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-12",
+  "son_basvuru": "2026-11-16",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/karabuk-universitesi-23-ogretim-uyesi-alim-ilani": {
@@ -2973,14 +2997,6 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-30",
   "son_basvuru": "2026-11-13",
-  "sonuc": null
- },
- "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-3-sozlesmeli-personel-memur-alim-ilani": {
-  "baslik": "Kayseri Üniversitesi 3 Sözleşmeli Personel Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-14",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/kayseri-universitesi-6-ogretim-uyesi-alim-ilani": {
@@ -4679,22 +4695,6 @@
   "son_basvuru": "2026-07-24",
   "sonuc": null
  },
- "https://www.memurjet.com/is-ilanlari/tcdd-tasimacilik-18-engelli-isci-memur-alim-ilani": {
-  "baslik": "TCDD Taşımacılık 18 Engelli İşçi Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-14",
-  "sonuc": null
- },
- "https://www.memurjet.com/is-ilanlari/tcdd-tasimacilik-52-lokomotif-tamircisi-memur-alim-ilani": {
-  "baslik": "TCDD Taşımacılık 52 Lokomotif Tamircisi Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-14",
-  "sonuc": null
- },
  "https://www.memurjet.com/is-ilanlari/tcdd-tasimacilik-a-s-166-surekli-isci-alimi": {
   "baslik": "TCDD Taşımacılık A.Ş. 166 Sürekli İşçi Alımı",
   "bildirilen": false,
@@ -4797,14 +4797,6 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-22",
   "son_basvuru": "2026-09-07",
-  "sonuc": null
- },
- "https://www.memurjet.com/is-ilanlari/tmo-8-mufettis-yardimcisi-memur-alim-ilani": {
-  "baslik": "TMO 8 Müfettiş Yardımcısı Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-14",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/tokat-gaziosmanpasa-uni-8-ogretim-elemani-alimi": {
@@ -5074,7 +5066,7 @@
  "https://www.memurjet.com/is-ilanlari/turkiye-seker-fabrikalari-42-sozlesmeli-muhendis-alimi": {
   "baslik": "Türkiye Şeker Fabrikaları 42 Sözleşmeli Mühendis Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-11-05",
   "son_basvuru": "2026-11-15",
   "sonuc": "DIKKAT"

@@ -46,59 +46,6 @@
   }
  },
  {
-  "url": "https://www.memurjet.com/is-ilanlari/burdur-mehmet-akif-ersoy-uni-1-sistem-yoneticisi-alimi",
-  "baslik": "Burdur Mehmet Akif Ersoy Üni. 1 Sistem Yöneticisi Alımı",
-  "unvanlar": [
-   "Sistem Yöneticisi"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-595-burdur-mehmet-akif-ersoy-universitesi-1-alacak-20261028",
-  "meta": "4/B Sözleşmeli · Sözlü sınav + Uygulamalı sınav · e-Devlet / Kariyer Kapısı",
-  "son_basvuru": "2026-11-11",
-  "baslangic": "2026-10-28",
-  "son_saat": "13:00",
-  "istihdam": "4/B Sözleşmeli",
-  "sinav": "Sözlü sınav + Uygulamalı sınav",
-  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
-  "yer": "Burdur",
-  "kadro": 1,
-  "ogrenim": [
-   "Lisans · Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği, Endüstri Mühendisliği"
-  ],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 70.0
-  },
-  "kpss_yillari": [
-   2026
-  ],
-  "kpss_var": true,
-  "deneyim_yillari": [
-   3,
-   5
-  ],
-  "yas_siniri": null,
-  "yds": true,
-  "belgeler": [
-   "sertifika",
-   "SGK dökümü"
-  ],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "DIKKAT",
-   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
-   "uyarilar": [
-    "asgari puan: P3≥70",
-    "deneyim isteniyor: 3–5 yıl (bazı unvanlarda)",
-    "YDS/yabancı dil belgesi geçiyor",
-    "belge/sertifika: sertifika, SGK dökümü"
-   ],
-   "oncelikli": false
-  }
- },
- {
   "url": "https://www.memurjet.com/is-ilanlari/mesleki-yeterlilik-kurumu-1-uzman-yardimcisi-alimi",
   "baslik": "Mesleki Yeterlilik Kurumu 1 Uzman Yardımcısı Alımı",
   "unvanlar": [
@@ -488,12 +435,12 @@
    "Uzman Personel"
   ],
   "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-A1043-zafer-kalkinma-ajansi-2-sozlesmeli-personel-alacak-20261125",
-  "meta": "Sürekli işçi · Sözlü sınav + Dosya değerlendirme · Kariyer Kapısı",
+  "meta": "Sürekli işçi · Dosya değerlendirme + Sözlü sınav · Kariyer Kapısı",
   "son_basvuru": "2026-12-14",
   "baslangic": "2026-11-25",
   "son_saat": null,
   "istihdam": "Sürekli işçi",
-  "sinav": "Sözlü sınav + Dosya değerlendirme",
+  "sinav": "Dosya değerlendirme + Sözlü sınav",
   "basvuru_yolu": "Kariyer Kapısı",
   "yer": "Afyonkarahisar, Kütahya, Manisa +1 il",
   "kadro": 2,
@@ -543,6 +490,53 @@
     "asgari puan: P40≥80",
     "YDS/yabancı dil belgesi geçiyor",
     "belge/sertifika: sürücü belgesi"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
+  "url": "https://www.memurjet.com/is-ilanlari/cumhurbaskanligi-ssb-26-sozlesmeli-personel-alimi",
+  "baslik": "Cumhurbaşkanlığı SSB 26 Sözleşmeli Personel Alımı",
+  "unvanlar": [
+   "Sözleşmeli Personel"
+  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-232-savunma-sanayii-baskanligi-26-proje-bazli-sozlesmeli-personel-alacak-20261120",
+  "meta": "4/B Sözleşmeli · Sözlü sınav · e-Devlet / Kariyer Kapısı",
+  "son_basvuru": "2026-12-21",
+  "baslangic": "2026-11-20",
+  "son_saat": "23:59",
+  "istihdam": "4/B Sözleşmeli",
+  "sinav": "Sözlü sınav",
+  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
+  "yer": "Ankara Yabancı dil ≥ 70 YDS veya eşdeğeri",
+  "kadro": 26,
+  "ogrenim": [
+   "Lisans · Bilgisayar Mühendisliği, Kontrol ve Otomasyon Mühendisliği, Bilgisayar Bilimi ve Mühendisliği, Makine Mühendisliği, Bilişim Sistemleri Mühendisliği, Malzeme Bilimi ve Mühendisliği, Elektrik ve Elektronik Mühendisliği, Matematik Mühendisliği, Mekatronik Mühendisliği, Metalurji Mühendisliği, Endüstri Mühendisliği, Fizik Mühendisliği, Gemi İnşaatı Mühendisliği, Havacılık Mühendisliği, Kimya Mühendisliği, Yazılım Mühendisliği, Siber Güvenlik Mühendisliği, Uçak Mühendisliği, Uzay Mühendisliği veya ilgili diğer mühendislik bölümleri"
+  ],
+  "kpss_turleri": [],
+  "kpss_asgari": {},
+  "kpss_yillari": [
+   2026
+  ],
+  "kpss_var": true,
+  "deneyim_yillari": [
+   5
+  ],
+  "yas_siniri": 65,
+  "yds": true,
+  "belgeler": [
+   "sertifika"
+  ],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
+   "uyarilar": [
+    "yaş sınırı: 65",
+    "deneyim isteniyor: 5 yıl",
+    "YDS/yabancı dil belgesi geçiyor",
+    "belge/sertifika: sertifika"
    ],
    "oncelikli": false
   }
