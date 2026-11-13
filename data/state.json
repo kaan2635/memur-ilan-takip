@@ -1015,6 +1015,14 @@
   "son_basvuru": "2026-11-13",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/bursa-teknik-universitesi-1-sozlesmeli-psikolog-alimi": {
+  "baslik": "Bursa Teknik Üniversitesi 1 Sözleşmeli Psikolog Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-13",
+  "son_basvuru": "2026-11-27",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/bursa-teknik-universitesi-12-sozlesmeli-personel-alim-ilani": {
   "baslik": "Bursa Teknik Üniversitesi 12 Sözleşmeli Personel Alım İlanı",
   "bildirilen": false,
@@ -1133,6 +1141,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-11-09",
   "son_basvuru": "2026-11-23",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/cankiri-karatekin-universitesi-24-ogretim-uyesi-alimi": {
+  "baslik": "Çankırı Karatekin Üniversitesi 24 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-13",
+  "son_basvuru": "2026-11-27",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/cankiri-karatekin-universitesi-40-ogretim-uyesi-alimi": {
@@ -1645,6 +1661,22 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-22",
   "son_basvuru": "2026-07-24",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/emniyet-mud-polisevi-mud-1-mutfak-gorevlisi-alimi": {
+  "baslik": "Emniyet Müd. Polisevi Müd. 1 Mutfak Görevlisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-13",
+  "son_basvuru": "2026-11-17",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/emniyet-mud-polisevi-mud-1-temizlik-gorevlisi-alimi": {
+  "baslik": "Emniyet Müd. Polisevi Müd. 1 Temizlik Görevlisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-13",
+  "son_basvuru": "2026-11-17",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/erciyes-universitesi-197-sozlesmeli-personel-alim-ilani": {
@@ -2199,6 +2231,14 @@
   "son_basvuru": "2026-10-08",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/hazine-ve-maliye-10-stajyer-hazine-kontroloru-alimi": {
+  "baslik": "Hazine ve Maliye 10 Stajyer Hazine Kontrolörü Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-13",
+  "son_basvuru": "2026-12-04",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/hazine-ve-maliye-bakanligi-124-isci-alim-ilani": {
   "baslik": "Hazine ve Maliye Bakanlığı 124 İşçi Alım İlanı",
   "bildirilen": false,
@@ -2650,7 +2690,7 @@
  "https://www.memurjet.com/is-ilanlari/jandarma-genel-komutanligi-30-devlet-memuru-alimi": {
   "baslik": "Jandarma Genel Komutanlığı 30 Devlet Memuru Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-11-02",
   "son_basvuru": "2026-11-16",
   "sonuc": "DIKKAT"
@@ -2677,6 +2717,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-09-29",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/kahramanmaras-emniyet-mud-1-servis-elemani-alimi": {
+  "baslik": "Kahramanmaraş Emniyet Müd. 1 Servis Elemanı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-13",
+  "son_basvuru": "2026-11-17",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/kahramanmaras-istiklal-uni-3-ogretim-uyesi-alim-ilani": {
@@ -2861,6 +2909,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-22",
   "son_basvuru": "2026-09-04",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/karamanoglu-mehmetbey-uni-5-doktor-ogretim-uyesi-alimi": {
+  "baslik": "Karamanoğlu Mehmetbey Üni. 5 Doktor Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-13",
+  "son_basvuru": "2026-11-27",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/karamanoglu-mehmetbey-uni-5-ogretim-elemani-alimi": {
@@ -4183,6 +4239,14 @@
   "son_basvuru": "2026-09-19",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/sahil-guvenlik-komutanligi-10-devlet-memuru-alimi": {
+  "baslik": "Sahil Güvenlik Komutanlığı 10 Devlet Memuru Alımı",
+  "bildirilen": true,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-13",
+  "son_basvuru": "2026-11-27",
+  "sonuc": "DIKKAT"
+ },
  "https://www.memurjet.com/is-ilanlari/sakarya-universitesi-18-arastirma-gorevlisi-alimi": {
   "baslik": "Sakarya Üniversitesi 18 Araştırma Görevlisi Alımı",
   "bildirilen": false,
@@ -4701,6 +4765,22 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-26",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/tefenni-belediye-baskanligi-1-isci-alimi": {
+  "baslik": "Tefenni Belediye Başkanlığı 1 İşçi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-13",
+  "son_basvuru": "2026-11-17",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/tefenni-belediye-baskanligi-1-makam-soforu-alimi": {
+  "baslik": "Tefenni Belediye Başkanlığı 1 Makam Şoförü Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-13",
+  "son_basvuru": "2026-11-17",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/teias-12-engelli-isci-alim-ilani": {
@@ -5330,7 +5410,7 @@
  "https://www.memurjet.com/is-ilanlari/ytb-15-uzman-yardimcisi-alimi": {
   "baslik": "YTB 15 Uzman Yardımcısı Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-16",
   "sonuc": "DIKKAT"
@@ -5341,6 +5421,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-09-29",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/yuksekogretim-kalite-kurulu-5-uzman-yardimcisi-alimi": {
+  "baslik": "Yükseköğretim Kalite Kurulu 5 Uzman Yardımcısı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-13",
+  "son_basvuru": "2026-12-14",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/yuksekogretim-kurulu-bsk-5-sozlesmeli-personel-alimi": {

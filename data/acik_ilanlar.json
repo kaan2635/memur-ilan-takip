@@ -376,6 +376,54 @@
   }
  },
  {
+  "url": "https://www.memurjet.com/is-ilanlari/sahil-guvenlik-komutanligi-10-devlet-memuru-alimi",
+  "baslik": "Sahil Güvenlik Komutanlığı 10 Devlet Memuru Alımı",
+  "unvanlar": [
+   "Mali Hizmetler Uzmanı",
+   "Psikolog",
+   "Öğretim Görevlisi (Yabancı Diller)",
+   "Tedarik Uzmanı",
+   "Video Montaj Teknikeri",
+   "Muhasebeci"
+  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-809-sahil-guvenlik-komutanligi-10-memur-alacak-20261116",
+  "meta": "Kadrolu memur · KPSS · e-Devlet",
+  "son_basvuru": "2026-11-27",
+  "baslangic": "2026-11-16",
+  "son_saat": null,
+  "istihdam": "Kadrolu memur",
+  "sinav": "KPSS",
+  "basvuru_yolu": "e-Devlet",
+  "yer": "Ankara",
+  "kadro": 10,
+  "ogrenim": [
+   "Lisans · İlanda belirtilen kadrolar için ilgili alan mezunluğu"
+  ],
+  "kpss_turleri": [
+   3,
+   93
+  ],
+  "kpss_asgari": {},
+  "kpss_yillari": [
+   2026
+  ],
+  "kpss_var": true,
+  "deneyim_yillari": [],
+  "yas_siniri": null,
+  "yds": true,
+  "belgeler": [],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "herhangi bir lisans / bölüm kısıtı yok",
+   "uyarilar": [
+    "YDS/yabancı dil belgesi geçiyor"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
   "url": "https://www.memurjet.com/is-ilanlari/yildiz-teknik-universitesi-2-bilisim-personeli-alimi",
   "baslik": "Yıldız Teknik Üniversitesi 2 Bilişim Personeli Alımı",
   "unvanlar": [
