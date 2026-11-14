@@ -46,53 +46,6 @@
   }
  },
  {
-  "url": "https://www.memurjet.com/is-ilanlari/mesleki-yeterlilik-kurumu-1-uzman-yardimcisi-alimi",
-  "baslik": "Mesleki Yeterlilik Kurumu 1 Uzman Yardımcısı Alımı",
-  "unvanlar": [
-   "Mesleki Yeterlilik Kurumu Uzman Yardımcısı"
-  ],
-  "resmi_kaynak": null,
-  "meta": "Sürekli işçi · Sözlü sınav · Online",
-  "son_basvuru": "2026-11-13",
-  "baslangic": "2026-11-09",
-  "son_saat": null,
-  "istihdam": "Sürekli işçi",
-  "sinav": "Sözlü sınav",
-  "basvuru_yolu": "Online",
-  "yer": "Ankara",
-  "kadro": 1,
-  "ogrenim": [
-   "Lisans · Bilgisayar Bilimleri, Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik-Elektronik Mühendisliği, Bilişim Sistemleri Mühendisliği, Yönetim Bilişim Sistemleri, Matematik ve Bilgisayar (uygun program listesi ilanda belirtilmiştir)"
-  ],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {},
-  "kpss_yillari": [
-   2025,
-   2026
-  ],
-  "kpss_var": true,
-  "deneyim_yillari": [],
-  "yas_siniri": 35,
-  "yds": true,
-  "belgeler": [
-   "sertifika"
-  ],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "DIKKAT",
-   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
-   "uyarilar": [
-    "yaş sınırı: 35",
-    "YDS/yabancı dil belgesi geçiyor",
-    "belge/sertifika: sertifika"
-   ],
-   "oncelikli": false
-  }
- },
- {
   "url": "https://www.memurjet.com/is-ilanlari/turkiye-seker-fabrikalari-42-sozlesmeli-muhendis-alimi",
   "baslik": "Türkiye Şeker Fabrikaları 42 Sözleşmeli Mühendis Alımı",
   "unvanlar": [
