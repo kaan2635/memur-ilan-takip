@@ -1327,14 +1327,6 @@
   "son_basvuru": "2026-09-04",
   "sonuc": null
  },
- "https://www.memurjet.com/is-ilanlari/danistay-baskanligi-65-personel-memur-alim-ilani": {
-  "baslik": "Danıştay Başkanlığı 65 Personel Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-19",
-  "sonuc": null
- },
  "https://www.memurjet.com/is-ilanlari/danistay-baskanligi-9-sozlesmeli-personel-memur-alim-ilani": {
   "baslik": "Danıştay Başkanlığı 9 Sözleşmeli Personel Memur Alım İlanı",
   "bildirilen": false,
@@ -1397,6 +1389,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": null,
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/dicle-kalkinma-ajansi-4-uzman-personel-alimi": {
+  "baslik": "Dicle Kalkınma Ajansı 4 Uzman Personel Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-17",
+  "son_basvuru": "2026-12-18",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/dicle-universitesi-21-sozlesmeli-personel-alim-ilani": {
@@ -2711,22 +2711,6 @@
   "son_basvuru": "2026-11-16",
   "sonuc": null
  },
- "https://www.memurjet.com/is-ilanlari/izmir-demokrasi-universitesi-7-sozlesmeli-memur-alim-ilani": {
-  "baslik": "İzmir Demokrasi Üniversitesi 7 Sözleşmeli Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-19",
-  "sonuc": null
- },
- "https://www.memurjet.com/is-ilanlari/izmir-demokrasi-universitesi-7-sozlesmeli-memur-alim-ilani-1": {
-  "baslik": "İzmir Demokrasi Üniversitesi 7 Sözleşmeli Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-19",
-  "sonuc": null
- },
  "https://www.memurjet.com/is-ilanlari/izmir-katip-celebi-universitesi-19-ogretim-uyesi-alimi": {
   "baslik": "İzmir Kâtip Çelebi Üniversitesi 19 Öğretim Üyesi Alımı",
   "bildirilen": false,
@@ -2765,7 +2749,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-11-02",
   "son_basvuru": "2026-11-16",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/jandarma-genel-komutanligi-5-sozlesmeli-bilisim-alim-ilani": {
   "baslik": "Jandarma Genel Komutanlığı 5 Sözleşmeli Bilişim Alım İlanı",
@@ -5509,7 +5493,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-16",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/yuksek-secim-kurulu-6-sozlesmeli-bilisim-alim-ilani": {
   "baslik": "Yüksek Seçim Kurulu 6 Sözleşmeli Bilişim Alım İlanı",
