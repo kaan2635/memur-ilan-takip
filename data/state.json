@@ -823,6 +823,22 @@
   "son_basvuru": "2026-11-13",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/bayburt-universitesi-11-ogretim-uyesi-alimi": {
+  "baslik": "Bayburt Üniversitesi 11 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-18",
+  "son_basvuru": "2026-12-02",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/bayburt-universitesi-8-ogretim-elemani-alimi": {
+  "baslik": "Bayburt Üniversitesi 8 Öğretim Elemanı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-18",
+  "son_basvuru": "2026-12-02",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/bayrampasa-belediye-baskanligi-10-muhendis-alim-ilani": {
   "baslik": "Bayrampaşa Belediye Başkanlığı 10 Mühendis Alım İlanı",
   "bildirilen": false,
@@ -877,6 +893,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-09-30",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/bilecik-seyh-edebali-uni-15-ogretim-uyesi-alimi": {
+  "baslik": "Bilecik Şeyh Edebali Üni. 15 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-18",
+  "son_basvuru": "2026-12-02",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/bilecik-seyh-edebali-uni-20-sozlesmeli-personel-alim-ilani": {
@@ -1045,6 +1069,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-09-23",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/burdur-mehmet-akif-ersoy-uni-60-ogretim-uyesi-alimi": {
+  "baslik": "Burdur Mehmet Akif Ersoy Üni. 60 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-18",
+  "son_basvuru": "2026-12-02",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/burdur-mehmet-akif-ersoy-universitesi-17-memur-alim-ilani": {
@@ -1749,14 +1781,6 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-09-03",
-  "sonuc": null
- },
- "https://www.memurjet.com/is-ilanlari/erzincan-binali-yildirim-uni-6-memur-alim-ilani": {
-  "baslik": "Erzincan Binali Yıldırım Üni. 6 Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-20",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/erzincan-binali-yildirim-universitesi-27-memur-alim-ilani": {
@@ -3455,22 +3479,6 @@
   "son_basvuru": "2026-09-23",
   "sonuc": null
  },
- "https://www.memurjet.com/is-ilanlari/kosgeb-15-destek-elemani-memur-alim-ilani": {
-  "baslik": "KOSGEB 15 Destek Elemanı Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-20",
-  "sonuc": null
- },
- "https://www.memurjet.com/is-ilanlari/kosgeb-15-destek-elemani-memur-alim-ilani-1": {
-  "baslik": "KOSGEB 15 Destek Elemanı Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-21",
-  "son_basvuru": "2026-07-20",
-  "sonuc": null
- },
  "https://www.memurjet.com/is-ilanlari/kozakli-belediyesi-1-sofor-memur-alim-ilani": {
   "baslik": "Kozaklı Belediyesi 1 Şoför Memur Alım İlanı",
   "bildirilen": false,
@@ -4757,14 +4765,6 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-11-04",
   "son_basvuru": "2026-12-18",
-  "sonuc": null
- },
- "https://www.memurjet.com/is-ilanlari/tapu-kadastro-2-pilot-ve-makinist-memur-alim-ilani": {
-  "baslik": "Tapu Kadastro 2 Pilot ve Makinist Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-20",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/tapu-kadastro-genel-mud-19-bilisim-personeli-alimi": {
