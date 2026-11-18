@@ -2530,7 +2530,7 @@
  "https://www.memurjet.com/is-ilanlari/istanbul-kalkinma-ajansi-5-uzman-alimi": {
   "baslik": "İstanbul Kalkınma Ajansı 5 Uzman Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-22",
   "sonuc": "DIKKAT"
