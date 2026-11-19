@@ -3213,7 +3213,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-11-19",
-  "sonuc": "KESIN"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/kesan-belediyesi-2-muhendis-memur-alimi": {
   "baslik": "Keşan Belediyesi 2 Mühendis Memur Alımı",
@@ -4034,7 +4034,7 @@
  "https://www.memurjet.com/is-ilanlari/nukleer-duzenleme-8-sozlesmeli-bilisim-personeli-alimi": {
   "baslik": "Nükleer Düzenleme 8 Sözleşmeli Bilişim Personeli Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-10-30",
   "son_basvuru": "2026-11-23",
   "sonuc": "DIKKAT"

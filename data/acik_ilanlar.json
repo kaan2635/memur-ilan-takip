@@ -1,51 +1,5 @@
 [
  {
-  "url": "https://www.memurjet.com/is-ilanlari/kesan-belediye-baskanligi-2-memur-alimi",
-  "baslik": "Keşan Belediye Başkanlığı 2 Memur Alımı",
-  "unvanlar": [
-   "İnşaat Mühendisi",
-   "Elektrik-Elektronik Mühendisi"
-  ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-BEL2-kesan-belediye-baskanligi-2-memur-alacak-20261116",
-  "meta": "Kadrolu memur · Sözlü sınav · Online / Şahsen / Posta / E-posta",
-  "son_basvuru": "2026-11-19",
-  "baslangic": "2026-11-16",
-  "son_saat": "17:30",
-  "istihdam": "Kadrolu memur",
-  "sinav": "Sözlü sınav",
-  "basvuru_yolu": "Online / Şahsen / Posta / E-posta",
-  "yer": "Edirne",
-  "kadro": 2,
-  "ogrenim": [
-   "Lisans · İnşaat Mühendisliği",
-   "Lisans · Elektrik-Elektronik Mühendisliği"
-  ],
-  "kpss_turleri": [
-   3
-  ],
-  "kpss_asgari": {
-   "3": 70.0
-  },
-  "kpss_yillari": [
-   2026
-  ],
-  "kpss_var": true,
-  "deneyim_yillari": [],
-  "yas_siniri": null,
-  "yds": false,
-  "belgeler": [],
-  "cinsiyet_siniri": null,
-  "listede": true,
-  "degerlendirme": {
-   "sonuc": "KESIN",
-   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
-   "uyarilar": [
-    "asgari puan: P3≥70"
-   ],
-   "oncelikli": false
-  }
- },
- {
   "url": "https://www.memurjet.com/is-ilanlari/istanbul-kalkinma-ajansi-5-uzman-alimi",
   "baslik": "İstanbul Kalkınma Ajansı 5 Uzman Alımı",
   "unvanlar": [
