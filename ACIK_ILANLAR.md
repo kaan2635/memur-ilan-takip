@@ -1,6 +1,6 @@
 # Açık ilanlar — 20.11.2026
 
-Profil: E-E lisans · KPSS 2026. Toplam **7** uygun/kontrol edilecek ilan.
+Profil: E-E lisans · KPSS 2026. Toplam **8** uygun/kontrol edilecek ilan.
 
 ⚠️ Kontrol et  **İstanbul Kalkınma Ajansı 5 Uzman Alımı**
    Son başvuru: 22.11.2026 23:59 (2 gün kaldı)
@@ -41,6 +41,16 @@ Profil: E-E lisans · KPSS 2026. Toplam **7** uygun/kontrol edilecek ilan.
    • belge/sertifika: sertifika, SGK dökümü
    Başvuru: e-Devlet / Kariyer Kapısı
    https://www.memurjet.com/is-ilanlari/yildiz-teknik-universitesi-2-bilisim-personeli-alimi
+
+⚠️ Kontrol et  **Adalet Bak. Adli Tıp 181 Sözleşmeli Personel Alımı**
+   Son başvuru: 06.12.2026 23:59 (16 gün kaldı) · başvuru 30.11'de açılıyor
+   Unvanlar: Makine Mühendisi, Kimya Mühendisi, Bilgisayar Mühendisi, Diğer Teknik Hizmet Personeli
+   Yer: İstanbul, Ankara, İzmir +19 il · 4/B Sözleşmeli · lisans düzeyi
+   • öğrenim satırı ayrıştırılamadı, ilan metnini kontrol et
+   • asgari puan: P94≥70, P3≥70, P93≥70
+   • belge/sertifika: sürücü belgesi, SGK dökümü
+   Başvuru: e-Devlet / Kariyer Kapısı
+   https://www.memurjet.com/is-ilanlari/adalet-bak-adli-tip-181-sozlesmeli-personel-alimi
 
 ⚠️ Kontrol et  **Zafer Kalkınma Ajansı 2 Uzman Personel Alımı**
    Son başvuru: 14.12.2026 (24 gün kaldı) · başvuru 25.11'de açılıyor
