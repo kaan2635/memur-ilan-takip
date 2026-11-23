@@ -1,62 +1,92 @@
 [
  {
-  "url": "https://www.memurjet.com/is-ilanlari/istanbul-kalkinma-ajansi-5-uzman-alimi",
-  "baslik": "İstanbul Kalkınma Ajansı 5 Uzman Alımı",
+  "url": "https://www.memurjet.com/is-ilanlari/icisleri-bak-1170-sozlesmeli-personel-alimi",
+  "baslik": "İçişleri Bak. 1170 Sözleşmeli Personel Alımı",
   "unvanlar": [
-   "Uzman Personel",
-   "İstanbul"
+   "Arşiv Uzmanı",
+   "Avukat",
+   "Programcı",
+   "Mimar",
+   "Mühendis (Elektrik-Elektronik)",
+   "Mühendis (Makine)",
+   "Büro Personeli",
+   "Çağrı Karşılama Personeli",
+   "Destek Personeli (Aşçı-Aşçı Yardımcısı)",
+   "Destek Personeli (Aşçı-Kasap)",
+   "Destek Personeli (Aşçı-Kebap Ustası)",
+   "Destek Personeli (Aşçı-Pide Ustası)",
+   "Destek Personeli (Aşçı-Tatlı Ustası)",
+   "Destek Personeli (Aşçı)",
+   "Destek Personeli (Bahçıvan)",
+   "Destek Personeli (Boyacı-Badanacı)",
+   "Destek Personeli (Bulaşıkçı)",
+   "Destek Personeli (Garson)",
+   "Destek Personeli (Kaloriferci)",
+   "Destek Personeli (Şoför)",
+   "Destek Personeli (Taş Ustası)",
+   "Destek Personeli (Temizlik Görevlisi)",
+   "Diğer Teknik Hizmet Personeli (Grafiker)",
+   "Diğer Teknik Hizmet Personeli (İstatistikçi)",
+   "Koruma ve Güvenlik Görevlisi (Silahlı)",
+   "Mühendis (Bilgisayar)",
+   "Mühendis (Çevre)",
+   "Mühendis (İnşaat)",
+   "Mühendis (Maden)",
+   "Psikolog",
+   "Tekniker (Elektrik-Elektronik)",
+   "Tekniker (Elektronik Haberleşme Teknolojisi)",
+   "Teknisyen (Elektrik-Elektronik)",
+   "Teknisyen (Klima)",
+   "Teknisyen (Marangoz)",
+   "Teknisyen (Motor)",
+   "Teknisyen (Sıhhi Tesisat)"
   ],
-  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-A1034-istanbul-kalkinma-ajansi-5-uzman-alacak-20261102",
-  "meta": "Sürekli işçi · Sözlü sınav + Dosya değerlendirme · Kariyer Kapısı",
-  "son_basvuru": "2026-11-22",
-  "baslangic": "2026-11-02",
-  "son_saat": "23:59",
-  "istihdam": "Sürekli işçi",
-  "sinav": "Sözlü sınav + Dosya değerlendirme",
-  "basvuru_yolu": "Kariyer Kapısı",
-  "yer": "İstanbul",
-  "kadro": 5,
-  "ogrenim": [
-   "Lisans · Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Endüstri Mühendisliği, İşletme Mühendisliği, Makine Mühendisliği, Matematik Mühendisliği, Matematik, Metalurji Mühendisliği, Metalurji ve Malzeme Mühendisliği, Şehir ve Bölge Planlama, Yönetim Bilişim Sistemleri, İktisat, İşletme, Maliye",
-   "Yüksek lisans · İlgili alanlarda lisans üstü eğitime sahip olmak tercih sebebidir"
-  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-25-icisleri-bakanligi-1170-sozlesmeli-personel-alacak-20261207",
+  "meta": "4/B Sözleşmeli · Sözlü sınav + Uygulamalı sınav · e-Devlet",
+  "son_basvuru": "2026-12-11",
+  "baslangic": "2026-12-07",
+  "son_saat": "16:00",
+  "istihdam": "4/B Sözleşmeli",
+  "sinav": "Sözlü sınav + Uygulamalı sınav",
+  "basvuru_yolu": "e-Devlet",
+  "yer": "Türkiye geneli",
+  "kadro": 1170,
+  "ogrenim": [],
   "kpss_turleri": [
-   1,
-   2,
    3,
-   14,
-   15,
-   19,
-   20,
-   21,
-   24,
-   25
+   93,
+   94
   ],
   "kpss_asgari": {
-   "25": 80.0
+   "94": 60.0,
+   "3": 60.0,
+   "93": 60.0
   },
   "kpss_yillari": [
    2026
   ],
   "kpss_var": true,
-  "deneyim_yillari": [
-   5
-  ],
-  "yas_siniri": 50,
+  "deneyim_yillari": [],
+  "yas_siniri": 35,
   "yds": true,
-  "belgeler": [],
+  "belgeler": [
+   "sürücü belgesi",
+   "sertifika",
+   "SGK dökümü"
+  ],
   "cinsiyet_siniri": null,
   "listede": true,
   "degerlendirme": {
    "sonuc": "DIKKAT",
    "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
    "uyarilar": [
-    "asgari puan: P25≥80",
-    "yaş sınırı: 50",
-    "deneyim isteniyor: 5 yıl",
-    "YDS/yabancı dil belgesi geçiyor"
+    "öğrenim satırı ayrıştırılamadı, ilan metnini kontrol et",
+    "asgari puan: P94≥60, P3≥60, P93≥60",
+    "yaş sınırı: 35",
+    "YDS/yabancı dil belgesi geçiyor",
+    "belge/sertifika: sürücü belgesi, sertifika, SGK dökümü"
    ],
-   "oncelikli": false
+   "oncelikli": true
   }
  },
  {
@@ -241,19 +271,17 @@
    "Sağlık Teknisyeni",
    "Sıhhi Tesisat Teknisyeni",
    "Tekniker",
-   "Uzman Personel (İktisat/İşletme/Kamu Yönetimi)",
-   "İstanbul",
-   "İzmir"
+   "Uzman Personel (İktisat/İşletme/Kamu Yönetimi)"
   ],
   "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-270-adli-tip-kurumu-baskanligi-181-sozlesmeli-personel-alacak-20261130",
-  "meta": "4/B Sözleşmeli · Sözlü sınav + KPSS + Fiziki yeterlilik · e-Devlet / Kariyer Kapısı",
+  "meta": "4/B Sözleşmeli · Sözlü sınav + KPSS · e-Devlet / Kariyer Kapısı",
   "son_basvuru": "2026-12-06",
   "baslangic": "2026-11-30",
   "son_saat": "23:59",
   "istihdam": "4/B Sözleşmeli",
-  "sinav": "Sözlü sınav + KPSS + Fiziki yeterlilik",
+  "sinav": "Sözlü sınav + KPSS",
   "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
-  "yer": "İstanbul, Ankara, İzmir +19 il",
+  "yer": "Adana, Ağrı, Ankara +19 il",
   "kadro": 181,
   "ogrenim": [],
   "kpss_turleri": [
@@ -286,6 +314,60 @@
     "öğrenim satırı ayrıştırılamadı, ilan metnini kontrol et",
     "asgari puan: P94≥70, P3≥70, P93≥70",
     "belge/sertifika: sürücü belgesi, SGK dökümü"
+   ],
+   "oncelikli": false
+  }
+ },
+ {
+  "url": "https://www.memurjet.com/is-ilanlari/ankara-yildirim-beyazit-uni-1-sistem-uzmani-alimi",
+  "baslik": "Ankara Yıldırım Beyazıt Üni. 1 Sistem Uzmanı Alımı",
+  "unvanlar": [
+   "Sistem Uzmanı"
+  ],
+  "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-379-ankara-yildirim-beyazit-universitesi-1-sozlesmeli-bilisim-personeli-alacak-20261123",
+  "meta": "4/B Sözleşmeli · Sözlü sınav + Uygulamalı sınav · e-Devlet / Kariyer Kapısı",
+  "son_basvuru": "2026-12-07",
+  "baslangic": "2026-11-23",
+  "son_saat": "13:00",
+  "istihdam": "4/B Sözleşmeli",
+  "sinav": "Sözlü sınav + Uygulamalı sınav",
+  "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
+  "yer": "Ankara",
+  "kadro": 1,
+  "ogrenim": [
+   "Lisans · Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği veya YÖK tarafından denkliği kabul edilen yurt dışı mezuniyeti"
+  ],
+  "kpss_turleri": [
+   3
+  ],
+  "kpss_asgari": {
+   "3": 70.0
+  },
+  "kpss_yillari": [
+   2025,
+   2026
+  ],
+  "kpss_var": true,
+  "deneyim_yillari": [
+   5
+  ],
+  "yas_siniri": null,
+  "yds": true,
+  "belgeler": [
+   "sürücü belgesi",
+   "sertifika",
+   "SGK dökümü"
+  ],
+  "cinsiyet_siniri": null,
+  "listede": true,
+  "degerlendirme": {
+   "sonuc": "DIKKAT",
+   "neden": "Elektrik-Elektronik / mühendislik bölümü kabul ediliyor",
+   "uyarilar": [
+    "asgari puan: P3≥70",
+    "deneyim isteniyor: 5 yıl",
+    "YDS/yabancı dil belgesi geçiyor",
+    "belge/sertifika: sürücü belgesi, sertifika, SGK dökümü"
    ],
    "oncelikli": false
   }
