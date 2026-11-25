@@ -1,6 +1,6 @@
 # Açık ilanlar — 25.11.2026
 
-Profil: E-E lisans · KPSS 2026. Toplam **8** uygun/kontrol edilecek ilan.
+Profil: E-E lisans · KPSS 2026. Toplam **9** uygun/kontrol edilecek ilan.
 
 ⚠️ Kontrol et 📍 **İçişleri Bak. 1170 Sözleşmeli Personel Alımı**
    Son başvuru: 11.12.2026 16:00 (16 gün kaldı) · başvuru 07.12'de açılıyor
@@ -52,6 +52,17 @@ Profil: E-E lisans · KPSS 2026. Toplam **8** uygun/kontrol edilecek ilan.
    • belge/sertifika: sürücü belgesi, sertifika, SGK dökümü
    Başvuru: e-Devlet / Kariyer Kapısı
    https://www.memurjet.com/is-ilanlari/ankara-yildirim-beyazit-uni-1-sistem-uzmani-alimi
+
+⚠️ Kontrol et  **Türk-Alman Üni. 5 Sözleşmeli Bilişim Personeli Alımı**
+   Son başvuru: 14.12.2026 (19 gün kaldı) · başvuru 30.11'de açılıyor
+   Unvanlar: Ağ ve Siber Güvenlik Uzmanı, Kıdemli Yazılım Uzmanı, Yazılım Geliştirme Uzmanı, Sistem Uzmanı
+   Yer: İstanbul · 4/B Sözleşmeli · Elektrik-Elektronik / mühendislik bölümü kabul ediliyor
+   • asgari puan: P3≥70
+   • deneyim isteniyor: 3–5 yıl (bazı unvanlarda)
+   • YDS/yabancı dil belgesi geçiyor
+   • belge/sertifika: sertifika, SGK dökümü
+   Başvuru: Online
+   https://www.memurjet.com/is-ilanlari/turk-alman-uni-5-sozlesmeli-bilisim-personeli-alimi
 
 ⚠️ Kontrol et  **Zafer Kalkınma Ajansı 2 Uzman Personel Alımı**
    Son başvuru: 14.12.2026 (19 gün kaldı)
