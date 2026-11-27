@@ -431,22 +431,6 @@
   "son_basvuru": "2026-09-30",
   "sonuc": null
  },
- "https://www.memurjet.com/is-ilanlari/anayasa-mahkemesi-4-sozlesmeli-personel-memur-alim-ilani": {
-  "baslik": "Anayasa Mahkemesi 4 Sözleşmeli Personel Memur Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-30",
-  "sonuc": null
- },
- "https://www.memurjet.com/is-ilanlari/anayasa-mahkemesi-4-temizlik-gorevlisi-alim-ilani": {
-  "baslik": "Anayasa Mahkemesi 4 Temizlik Görevlisi Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-30",
-  "sonuc": null
- },
  "https://www.memurjet.com/is-ilanlari/ankara-buyuksehir-bel-5-mufettis-yardimcisi-alimi": {
   "baslik": "Ankara Büyükşehir Bel. 5 Müfettiş Yardımcısı Alımı",
   "bildirilen": false,
@@ -1447,14 +1431,6 @@
   "son_basvuru": "2026-08-02",
   "sonuc": null
  },
- "https://www.memurjet.com/is-ilanlari/davulga-belediye-2-isci-alim-ilani": {
-  "baslik": "Davulga Belediye 2 İşçi Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-30",
-  "sonuc": null
- },
  "https://www.memurjet.com/is-ilanlari/davulga-belediyesi-2-isci-alim-ilani-memur-alim-ilani": {
   "baslik": "Davulga Belediyesi 2 İşçi Alım İlanı Memur Alım İlanı",
   "bildirilen": false,
@@ -1581,14 +1557,6 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-11-27",
   "son_basvuru": "2026-12-14",
-  "sonuc": null
- },
- "https://www.memurjet.com/is-ilanlari/disisleri-bakanligi-120-aday-meslek-memuru-alim-ilani": {
-  "baslik": "Dışişleri Bakanlığı 120 Aday Meslek Memuru Alım İlanı",
-  "bildirilen": false,
-  "hatirlatilan": false,
-  "ilk_gorulme": "2026-10-22",
-  "son_basvuru": "2026-07-30",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/disisleri-bakanligi-80-aday-konsolosluk-memoru-alim": {
@@ -4717,7 +4685,7 @@
   "hatirlatilan": true,
   "ilk_gorulme": "2026-11-13",
   "son_basvuru": "2026-11-27",
-  "sonuc": "DIKKAT"
+  "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/sakarya-universitesi-18-arastirma-gorevlisi-alimi": {
   "baslik": "Sakarya Üniversitesi 18 Araştırma Görevlisi Alımı",
@@ -5874,7 +5842,7 @@
  "https://www.memurjet.com/is-ilanlari/yildiz-teknik-universitesi-2-bilisim-personeli-alimi": {
   "baslik": "Yıldız Teknik Üniversitesi 2 Bilişim Personeli Alımı",
   "bildirilen": true,
-  "hatirlatilan": false,
+  "hatirlatilan": true,
   "ilk_gorulme": "2026-11-02",
   "son_basvuru": "2026-12-01",
   "sonuc": "DIKKAT"
