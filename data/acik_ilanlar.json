@@ -93,31 +93,34 @@
   "url": "https://www.memurjet.com/is-ilanlari/sahil-guvenlik-komutanligi-10-devlet-memuru-alimi",
   "baslik": "Sahil Güvenlik Komutanlığı 10 Devlet Memuru Alımı",
   "unvanlar": [
-   "Mali Hizmetler Uzmanı",
+   "Mali İşler Uzmanı",
    "Psikolog",
-   "Öğretim Görevlisi (Yabancı Diller)",
+   "Yabancı Dil Öğretmeni (İngilizce)",
    "Tedarik Uzmanı",
    "Video Montaj Teknikeri",
-   "Muhasebeci"
+   "Muhasebeci",
+   "İstanbul",
+   "İzmir"
   ],
   "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-809-sahil-guvenlik-komutanligi-10-memur-alacak-20261116",
-  "meta": "Kadrolu memur · KPSS · e-Devlet",
+  "meta": "Kadrolu memur · KPSS + Sözlü sınav · e-Devlet",
   "son_basvuru": "2026-11-27",
   "baslangic": "2026-11-16",
-  "son_saat": null,
+  "son_saat": "14:00",
   "istihdam": "Kadrolu memur",
-  "sinav": "KPSS",
+  "sinav": "KPSS + Sözlü sınav",
   "basvuru_yolu": "e-Devlet",
-  "yer": "Ankara",
+  "yer": "Ankara, Antalya, Çanakkale +3 il",
   "kadro": 10,
-  "ogrenim": [
-   "Lisans · İlanda belirtilen kadrolar için ilgili alan mezunluğu"
-  ],
+  "ogrenim": [],
   "kpss_turleri": [
    3,
    93
   ],
-  "kpss_asgari": {},
+  "kpss_asgari": {
+   "93": 60.0,
+   "3": 60.0
+  },
   "kpss_yillari": [
    2026
   ],
@@ -130,8 +133,10 @@
   "listede": true,
   "degerlendirme": {
    "sonuc": "DIKKAT",
-   "neden": "herhangi bir lisans / bölüm kısıtı yok",
+   "neden": "lisans düzeyi",
    "uyarilar": [
+    "öğrenim satırı ayrıştırılamadı, ilan metnini kontrol et",
+    "asgari puan: P93≥60, P3≥60",
     "YDS/yabancı dil belgesi geçiyor"
    ],
    "oncelikli": false
@@ -212,12 +217,12 @@
    "Uzman Personel (İktisat/İşletme/Kamu Yönetimi)"
   ],
   "resmi_kaynak": "https://kamuilan.sbb.gov.tr/#ilan-270-adli-tip-kurumu-baskanligi-181-sozlesmeli-personel-alacak-20261130",
-  "meta": "4/B Sözleşmeli · Sözlü sınav + KPSS · e-Devlet / Kariyer Kapısı",
+  "meta": "4/B Sözleşmeli · KPSS + Sözlü sınav · e-Devlet / Kariyer Kapısı",
   "son_basvuru": "2026-12-06",
   "baslangic": "2026-11-30",
   "son_saat": "23:59",
   "istihdam": "4/B Sözleşmeli",
-  "sinav": "Sözlü sınav + KPSS",
+  "sinav": "KPSS + Sözlü sınav",
   "basvuru_yolu": "e-Devlet / Kariyer Kapısı",
   "yer": "Adana, Ağrı, Ankara +19 il",
   "kadro": 181,

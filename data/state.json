@@ -1503,6 +1503,14 @@
   "son_basvuru": null,
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/devlet-tiyatrolari-genel-2-temizlik-gorevlisi-alimi": {
+  "baslik": "Devlet Tiyatroları Genel 2 Temizlik Görevlisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-11-27",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/dicle-kalkinma-ajansi-4-uzman-personel-alimi": {
   "baslik": "Dicle Kalkınma Ajansı 4 Uzman Personel Alımı",
   "bildirilen": false,
@@ -1847,6 +1855,54 @@
   "son_basvuru": "2026-10-21",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/emniyet-genel-mudurlugu-1-nalbant-alimi": {
+  "baslik": "Emniyet Genel Müdürlüğü 1 Nalbant Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-11-27",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/emniyet-genel-mudurlugu-1-oto-elektrikcisi-alimi": {
+  "baslik": "Emniyet Genel Müdürlüğü 1 Oto Elektrikçisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-11-27",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/emniyet-genel-mudurlugu-1-otomotiv-kaportacisi-alimi": {
+  "baslik": "Emniyet Genel Müdürlüğü 1 Otomotiv Kaportacısı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-11-27",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/emniyet-genel-mudurlugu-2-oto-bakim-onarimcisi-alimi": {
+  "baslik": "Emniyet Genel Müdürlüğü 2 Oto Bakım-Onarımcısı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-11-27",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/emniyet-genel-mudurlugu-2-seyis-alimi": {
+  "baslik": "Emniyet Genel Müdürlüğü 2 Seyis Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-11-27",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/emniyet-genel-mudurlugu-5-silah-tamircisi-alimi": {
+  "baslik": "Emniyet Genel Müdürlüğü 5 Silah Tamircisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-11-27",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/emniyet-mud-polisevi-mud-1-mutfak-gorevlisi-alimi": {
   "baslik": "Emniyet Müd. Polisevi Müd. 1 Mutfak Görevlisi Alımı",
   "bildirilen": false,
@@ -2149,6 +2205,46 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-11-16",
   "son_basvuru": "2026-11-30",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/gelir-idaresi-baskanligi-21-koruma-gorevlisi-alimi": {
+  "baslik": "Gelir İdaresi Başkanlığı 21 Koruma Görevlisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-12-09",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/gelir-idaresi-baskanligi-22-sozlesmeli-avukat-alimi": {
+  "baslik": "Gelir İdaresi Başkanlığı 22 Sözleşmeli Avukat Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-12-09",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/gelir-idaresi-baskanligi-23-sozlesmeli-tekniker-alimi": {
+  "baslik": "Gelir İdaresi Başkanlığı 23 Sözleşmeli Tekniker Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-12-09",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/gelir-idaresi-baskanligi-27-sofor-alimi": {
+  "baslik": "Gelir İdaresi Başkanlığı 27 Şoför Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-12-09",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/gelir-idaresi-baskanligi-45-destek-personeli-alimi": {
+  "baslik": "Gelir İdaresi Başkanlığı 45 Destek Personeli Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-12-09",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/gelir-idaresi-baskanligi-860-gelir-uzman-memur-alim-ilani": {
@@ -3207,6 +3303,14 @@
   "son_basvuru": "2026-11-20",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/karayollari-8-bolge-mud-1-beden-iscisi-alimi": {
+  "baslik": "Karayolları 8. Bölge Müd. 1 Beden İşçisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-11-27",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/karayollari-genel-mud-2-asci-yardimcisi-alimi": {
   "baslik": "Karayolları Genel Müd. 2 Aşçı Yardımcısı Alımı",
   "bildirilen": false,
@@ -3237,6 +3341,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-29",
   "son_basvuru": "2026-12-02",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/kastamonu-sulama-birligi-1-ziraat-muhendisi-alimi": {
+  "baslik": "Kastamonu Sulama Birliği 1 Ziraat Mühendisi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-12-01",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/kastamonu-universitesi-14-sozlesmeli-personel-alim-ilani": {
@@ -4221,6 +4333,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-09",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/niksar-belediye-2-fatura-ve-hesap-tahsilatcisi-alimi": {
+  "baslik": "Niksar Belediye 2 Fatura ve Hesap Tahsilatçısı Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-12-01",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/nukleer-duzenleme-8-sozlesmeli-bilisim-personeli-alimi": {
@@ -5463,6 +5583,14 @@
   "son_basvuru": "2026-09-30",
   "sonuc": null
  },
+ "https://www.memurjet.com/is-ilanlari/turkiye-denizcilik-isletmeleri-1-buro-memuru-alimi": {
+  "baslik": "Türkiye Denizcilik İşletmeleri 1 Büro Memuru Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-11-27",
+  "sonuc": null
+ },
  "https://www.memurjet.com/is-ilanlari/turkiye-denizcillik-1-bilgisayar-muhendisi-alimi": {
   "baslik": "Türkiye Denizcillik 1 Bilgisayar Mühendisi Alımı",
   "bildirilen": false,
@@ -5557,6 +5685,14 @@
   "hatirlatilan": false,
   "ilk_gorulme": "2026-10-21",
   "son_basvuru": "2026-10-09",
+  "sonuc": null
+ },
+ "https://www.memurjet.com/is-ilanlari/turkiye-uluslararasi-islam-1-ogretim-uyesi-alimi": {
+  "baslik": "Türkiye Uluslararası İslam, 1 Öğretim Üyesi Alımı",
+  "bildirilen": false,
+  "hatirlatilan": false,
+  "ilk_gorulme": "2026-11-27",
+  "son_basvuru": "2026-12-11",
   "sonuc": null
  },
  "https://www.memurjet.com/is-ilanlari/turkiye-uluslararasi-islam-3-arastirma-gorevlisi-alimi": {

@@ -15,9 +15,11 @@ Profil: E-E lisans · KPSS 2026. Toplam **9** uygun/kontrol edilecek ilan.
    https://www.memurjet.com/is-ilanlari/icisleri-bak-1170-sozlesmeli-personel-alimi
 
 ⚠️ Kontrol et  **Sahil Güvenlik Komutanlığı 10 Devlet Memuru Alımı**
-   Son başvuru: 27.11.2026 (bugün)
-   Unvanlar: Mali Hizmetler Uzmanı, Psikolog, Öğretim Görevlisi (Yabancı Diller), Tedarik Uzmanı
-   Yer: Ankara · Kadrolu memur · herhangi bir lisans / bölüm kısıtı yok
+   Son başvuru: 27.11.2026 14:00 (bugün)
+   Unvanlar: Mali İşler Uzmanı, Psikolog, Yabancı Dil Öğretmeni (İngilizce), Tedarik Uzmanı
+   Yer: Ankara, Antalya, Çanakkale +3 il · Kadrolu memur · lisans düzeyi
+   • öğrenim satırı ayrıştırılamadı, ilan metnini kontrol et
+   • asgari puan: P93≥60, P3≥60
    • YDS/yabancı dil belgesi geçiyor
    Başvuru: e-Devlet
    https://www.memurjet.com/is-ilanlari/sahil-guvenlik-komutanligi-10-devlet-memuru-alimi
